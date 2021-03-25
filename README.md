@@ -39,4 +39,8 @@ What I Think is -
  - *Flutter And React will work hand in hand, doing one doesnt mean not doing other.*
  - NO SHARING OF CODE OR IDEA TO ANY GROUP OF ANY KIND.. IF THEY DONT WHY SHOULD WE !
  - ## SORT ISSUES WITH OLDEST FIRST 
+# PHASE 1
+---Till end of third semester
+# PHASE 2
+# PHASE 3
 #                                                                               LET'S MAKE IT HAPPEN.
