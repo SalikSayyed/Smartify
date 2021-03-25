@@ -26,3 +26,11 @@ What I Think is -
         - [ ] Recording Connections.
   - [ ] Presentation option on Remote Device
   - [ ] Adding Flip Cards for Key Value pairs revision
+# CODE OF CONDUCT
+ - Follow The Instructions below.
+ - Dont forget above instruction.
+ - Collaboration should be included but not limited to Code, New features etc.
+ - Solving Issues should follow in Sequential manner as in ToDo section of Project.
+ - Each Issue can be assigned to a Person.. That person is bound to give a pull request.
+ - Use the Github project section to add new issues, new Features using the Issue Templates Provided.
+#                                                                               LET'S MAKE IT HAPPEN.
