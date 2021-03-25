@@ -26,6 +26,9 @@ What I Think is -
         - [ ] Recording Connections.
   - [ ] Presentation option on Remote Device
   - [ ] Adding Flip Cards for Key Value pairs revision
+  - [ ] Reading capabilites
+  - [ ] Writing Capabilites with Speech to Text.
+  - [ ] Collaborating with Notes.
 # CODE OF CONDUCT
  - Follow The Instructions below.
  - Dont forget above instruction.
