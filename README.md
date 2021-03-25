@@ -36,4 +36,5 @@ What I Think is -
  - Solving Issues should follow in Sequential manner as in ToDo section of Project.
  - Each Issue can be assigned to a Person.. That person is bound to give a pull request.
  - Use the Github project section to add new issues, new Features using the Issue Templates Provided.
+ - *Flutter And React will work hand in hand, doing one doesnt mean not doing other.*
 #                                                                               LET'S MAKE IT HAPPEN.
