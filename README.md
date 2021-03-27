@@ -2,7 +2,8 @@
 #Minimum Viable Product
 ITS READING!  LIKE NEVER BEFORE.
 ![ConceptView](https://i2.wp.com/the-digital-reader.com/wp-content/uploads/2016/02/All-the-books-Editions-at-Play-Animated_500px.gif)
-
+-Concept-View-
+![ConeptViewMap](https://assets-global.website-files.com/5ddd9c3f2186308353fe682d/5ea38aec8ad6b6793d8e5edf_ezgif.com-optimize%20(11).gif)
 What I Think is - 
 - [ ] Making a PDF Reader. (@All)
      - [ ] With Topics
