@@ -23,7 +23,7 @@ What I Think is -
 - [ ] Adding multiple Shapes
 - [ ] Adding few emotion pictures.    Because we need to combine our vision with  https://www.youtube.com/watch?v=gj3ZnKlHqxI
 - [ ] Print option And Hence PDF For Made Notes
-![ConeptViewMap](https://assets-global.website-files.com/5ddd9c3f2186308353fe682d/5ea38aec8ad6b6793d8e5edf_ezgif.com-optimize%20(11).gif)
+![ConceptView3](https://i2.wp.com/www.novamind.com/wp-content/uploads/2015/12/nm-themes-2.gif?fit=1076%2C571&ssl=1)
 - ##Advanced
   - [ ] Recording making of notes.
         - [ ] Recording Each Additions.
