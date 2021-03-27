@@ -3,7 +3,6 @@
 ITS READING!  LIKE NEVER BEFORE.
 ![ConceptView](https://i2.wp.com/the-digital-reader.com/wp-content/uploads/2016/02/All-the-books-Editions-at-Play-Animated_500px.gif)
 -Concept-View-
-![ConeptViewMap](https://assets-global.website-files.com/5ddd9c3f2186308353fe682d/5ea38aec8ad6b6793d8e5edf_ezgif.com-optimize%20(11).gif)
 What I Think is - 
 - [ ] Making a PDF Reader. (@All)
      - [ ] With Topics
@@ -11,12 +10,12 @@ What I Think is -
      - [ ] Highlighter with colors
      - [ ] Track highlights with topics and subtopics.
      - [ ] Space for Writing Title for Notes
-     - [ ] 
 - [ ] Giving them a note taking side bar.
 - [ ] Providing a way to store notes inside LOCAL STORAGE itself
 - [ ] Making a android programme to transform notes into Mind Maps. 
    - [ ] Mind Map Clear
    - [ ] Flow Chart
+ ![ConeptViewMap](https://assets-global.website-files.com/5ddd9c3f2186308353fe682d/5ea38aec8ad6b6793d8e5edf_ezgif.com-optimize%20(11).gif)
    - [ ] Sticky Notes with Chart/Maps FOR IMPS
    - [ ] Searching option in each one.
 - [ ] File System and Hence Searching option.
@@ -24,6 +23,7 @@ What I Think is -
 - [ ] Adding multiple Shapes
 - [ ] Adding few emotion pictures.    Because we need to combine our vision with  https://www.youtube.com/watch?v=gj3ZnKlHqxI
 - [ ] Print option And Hence PDF For Made Notes
+![ConeptViewMap](https://assets-global.website-files.com/5ddd9c3f2186308353fe682d/5ea38aec8ad6b6793d8e5edf_ezgif.com-optimize%20(11).gif)
 - ##Advanced
   - [ ] Recording making of notes.
         - [ ] Recording Each Additions.
