@@ -1,5 +1,7 @@
 # PrimeNotes
 #Minimum Viable Product
+ITS READING!  LIKE NEVER BEFORE.
+![ConceptView](https://i2.wp.com/the-digital-reader.com/wp-content/uploads/2016/02/All-the-books-Editions-at-Play-Animated_500px.gif)
 What I Think is - 
 - [ ] Making a PDF Reader. (@All)
      - [ ] With Topics
