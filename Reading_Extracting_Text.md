@@ -20,3 +20,6 @@ USING PYpdf2 library
  Using Text_Highlight package.
  Changing the word list parameter to highligh specific word from Customized EPUB View.
  
+NLP Tutorials-
+https://www.youtube.com/playlist?list=PLc2rvfiptPSQgsORc7iuv7UxhbRJox-pW
+( Implementation of Method 2 is given for extracting text from PDF files )
