@@ -25,6 +25,14 @@ What I Think is -
 - [ ] Adding few emotion pictures.    Because we need to combine our vision with  https://www.youtube.com/watch?v=gj3ZnKlHqxI
 - [ ] Print option And Hence PDF For Made Notes
 ![ConceptView3](https://i2.wp.com/www.novamind.com/wp-content/uploads/2015/12/nm-themes-2.gif?fit=1076%2C571&ssl=1)
+- Whom will help?
+  -Students
+  -Competative Exam appearant
+  -Book lovers. Like self help books lovers. 
+- How?
+   - [ ] Making a application to facilitate note taking with pdf,ebook reading.
+   - [ ] Giving a way to export taken notes into Mind Maps and some other Graphs.
+   - [ ] Sharing them.
 - ##Advanced
   - [ ] Recording making of notes.
         - [ ] Recording Each Additions.
