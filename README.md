@@ -65,8 +65,8 @@ HIGHLIGHTING ON THE TEXT OF THE READER AND SAVING THE HIGHLIGHT POSITION INTO A 
 COMPLETELY WORKING NLP MODEL (WITHOUT REINFORCED LEARNING)
 
 MINIMUM 2 TEST RUNS OF REINFORCED LEARNING MODEL..(not for submission but for our speed)
-
-
+"We have lot of work to do, so insted of being smart in doing less efforts, be smart in delivering result"
+                                                                                        -  Baba Ranchodas
 # PHASE 2
 # PHASE 3
 #                                                                               LET'S MAKE IT HAPPEN.
