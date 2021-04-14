@@ -1,0 +1,624 @@
+Launching lib\main.dart on Chrome in debug mode...
+Debug service listening on ws://127.0.0.1:12345/cDuC3_DOyNY=/ws
+Running with unsound null safety
+For more information see https://dart.dev/null-safety/unsound-null-safety
+Connecting to VM Service at ws://127.0.0.1:12345/cDuC3_DOyNY=/ws
+TypeError: elements is not iterable
+TypeError: elements is not iterable
+TITLE : The Geography of Bliss: One Grump's Search for the Happiest Places in the World
+AUTHOR : Eric Weiner
+	Eric Weiner
+CHAPTER TITLE : Contents
+CHAPTERHTMLCONTENT : <?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>The Geography of Bliss</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link href="../stylesheet.css" rel="stylesheet" type="text/css"/>
+<link href="../page_styles.css" rel="stylesheet" type="text/css"/>
+</head>
+  <body class="calibre">
+<div class="dedication" id="dedication_1">
+<p class="ded"><em class="calibre1">for Sharon</em></p>
+</div>
+</body></html>
+	[]
+CHAPTER TITLE : Introduction
+CHAPTERHTMLCONTENT : <?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>The Geography of Bliss</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link href="../stylesheet.css" rel="stylesheet" type="text/css"/>
+<link href="../page_styles.css" rel="stylesheet" type="text/css"/>
+</head>
+  <body class="calibre">
+<div class="dedication" id="introduction_1">
+<p class="fmh"><a href="GeographyofBli_toc.html" class="calibre2">Introduction</a></p>
+<p class="cotx"><span class="dropcap">M</span>y bags were packed and my provisions loaded. I was ready for adventure. And so, on a late summer afternoon, I dragged my reluctant friend Drew off to explore new worlds and, I hoped, to find some happiness along the way. I’ve always believed that happiness is just around the corner. The trick is finding the right corner.</p>
+<p class="calibre3">Not long into our journey, Drew grew nervous. He pleaded with me to turn back, but I insisted we press on, propelled by an irresistible curiosity about what lay ahead. Danger? Magic? I needed to know, and to this day I’m convinced I would have reached wherever it was I was trying to reach had the Baltimore County Police not concluded, impulsively I thought at the time, that the shoulder of a major thoroughfare was no place for a couple of five-year-olds.</p>
+<p class="calibre3">Some people acquire the travel bug. Others are born with it. My affliction, if that’s what it is, went into remission for many years following my aborted expedition with Drew. It resurfaced after college with renewed fury. I desperately wanted to see the world, preferably on someone else’s dime. But how? I had no marketable skills, a stunted sense of morality, and a gloomy disposition. I decided to become a journalist.</p>
+<p class="calibre3">As a foreign correspondent for National Public Radio, I traveled to places such as Iraq, Afghanistan, and Indonesia: unhappy places. On one level, this made perfect sense. Unconsciously, I was observing the first law of writing: Write about what you know. And so, notebook in hand, tape recorder slung over my shoulder, I roamed the world telling the stories of gloomy, unhappy people. The truth is that unhappy people, living in profoundly unhappy places, make for good stories. They tug at heartstrings and inspire pathos.</p>
+<p class="calibre3">They can also be a real bummer.</p>
+<p class="calibre3">What if, I wondered, I spent a year traveling the globe, seeking out not the world’s well-trodden trouble spots but, rather, its unheralded happy places? Places that possess, in spades, one or more of the ingredients that we consider essential to the hearty stew of happiness: money, pleasure, spirituality, family, and chocolate, among others. Around the world, dozens of what-ifs play themselves out every day. What if you lived in a country that was fabulously wealthy and no one paid taxes? What if you lived in a country where failure <em class="calibre1">is</em> an option? What if you lived in a country so democratic that you voted seven times a year? What if you lived in a country where excessive thinking is discouraged? Would you be happy then?</p>
+<p class="calibre3">That’s exactly what I intended to find out, and the result of this admittedly harebrained experiment is the book you now hold in your hands.</p>
+<p class="spb">I was born in the Year of the Smiley Face: 1963. That’s when a graphic designer from Worcester, Massachusetts, named Harvey Ball invented the now-ubiquitous grinning yellow graphic. Originally, Ball’s creation was designed to cheer up people who worked at, of all places, an insurance company, but it has since become synonymous with the frothy, quintessentially American brand of happiness.</p>
+<p class="calibre3">Ball’s cheery icon never worked its magic on me. I am not a happy person, never have been. As a child, my favorite Winnie-the-Pooh character was Eeyore. For most of human history, I would have been considered normal. Happiness, in this life, on this earth, was a prize reserved for the gods and the fortunate few. Today, though, not only is happiness considered possible for anyone to attain, it is expected. Thus I, and millions of others, suffer from the uniquely modern malady that historian Darrin McMahon calls “the unhappiness of not being happy.” It is no fun at all.</p>
+<p class="calibre3">And so, like many others, I’ve worked at it. I never met a self-help book I didn’t like. My bookshelf is a towering, teetering monument to existential angst, brimming with books informing me that happiness lies deep inside of me. If I’m not happy, they counsel, then I’m not digging deep enough.</p>
+<p class="calibre3">This axiom of the self-help industrial complex is so deeply ingrained as to be self-evident. There’s only one problem: It’s not true. Happiness is not inside of us but out there. Or, to be more precise, the line between out there and in here is not as sharply defined as we think.</p>
+<p class="calibre3">The late British-born philosopher Alan Watts, in one of his wonderful lectures on eastern philosophy, used this analogy: “If I draw a circle, most people, when asked what I have drawn, will say I have drawn a circle or a disc, or a ball. Very few people will say I’ve drawn a hole in the wall, because most people think of the inside first, rather than thinking of the outside. But actually these two sides go together—you cannot have what is ‘in here’ unless you have what is ‘out there.’ ”</p>
+<p class="calibre3">In other words, where we are is vital to who we are.</p>
+<p class="calibre3">By “where,” I’m speaking not only of our physical environment but also of our cultural environment. Culture is the sea we swim in—so pervasive, so all-consuming, that we fail to notice its existence until we step out of it. It matters more than we think.</p>
+<p class="calibre3">With our words, we subconsciously conflate geography and happiness. We speak of searching for happiness, of finding contentment, as if these were locations in an atlas, actual places that we could visit if only we had the proper map and the right navigational skills. Anyone who has taken a vacation to, say, some Caribbean island and had flash through their mind the uninvited thought “I could be happy here” knows what I mean.</p>
+<p class="calibre3">Lurking just behind the curtain is, of course, that tantalizing, slippery concept known as paradise. It has beguiled us humans for some time now. Plato imagined the Blessed Isles, a place where happiness flowed like the warm Mediterranean waters. Until the eighteenth century, people believed that biblical paradise, the Garden of Eden, was a real place. It appeared on maps—located, ironically, at the confluence of the Tigris and Euphrates rivers, in what is now modern-day Iraq.</p>
+<p class="calibre3">European explorers prepared for expeditions in search of paradise by learning Aramaic, the language Jesus spoke. I set out on my journey, my search for paradise, speaking not Aramaic but another obscure language, the modern liturgy of bliss spoken by the new apostles of the emerging science of happiness. I brush up on terms like “positive affect” and “hedonic adaptation.” I carry no Bible, just a few <em class="calibre1">Lonely Planet</em> guides and a conviction that, as Henry Miller said, “One’s destination is never a place, but a new way of seeing things.”</p>
+<p class="calibre3">And so, on a typically steamy day in Miami (itself some people’s concept of paradise), I pack my bags and depart my home on what I know full well is a fool’s errand, every bit as foolish as the one I tried to pull off as a peripatetic five-year-old. As the author Eric Hoffer put it, “The search for happiness is one of the chief sources of unhappiness.” That’s okay. I’m already unhappy. I have nothing to lose.</p></div>
+<div class="calibre4" id="calibre_pb_3"></div>
+</body></html>
+	[]
+CHAPTER TITLE : Chapter 1: THE NETHERLANDS: Happiness Is a Number
+CHAPTERHTMLCONTENT : <?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>The Geography of Bliss</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link href="../stylesheet.css" rel="stylesheet" type="text/css"/>
+<link href="../page_styles.css" rel="stylesheet" type="text/css"/>
+</head>
+  <body class="calibre">
+<div class="dedication" id="chapter_1">
+<p class="cn"><a href="GeographyofBli_toc.html#chapter_1" class="calibre2">Chapter 1</a></p>
+<p class="ct">THE NETHERLANDS</p>
+<p class="cst">Happiness Is a Number</p>
+<p class="cotx"><span class="dropcap">I</span>t is a fact of human nature that we derive pleasure from watching others engage in pleasurable acts. This explains the popularity of two enterprises: pornography and cafés. Americans excel at the former, but Europeans do a better job at the latter. The food and the coffee are almost beside the point. I once heard of a café in Tel Aviv that dispensed with food and drink altogether; it served customers empty plates and cups yet charged real money.</p>
+<p class="calibre3">Cafés are theaters where the customer is both audience and performer. I find a wonderful one a block from my hotel in downtown Rotterdam. It is simultaneously large and cozy, upscale and run-down. Nice wood floors, but they look like they haven’t been polished in years. It’s the kind of place where you could spend hours nursing one beer, and I suspect many people here do just that.</p>
+<p class="calibre3">Everyone is smoking, so I join in, lighting up a little cigar. Something about the place makes time feel expansive and I become acutely aware of the smallest details. I notice a woman sitting on a bar stool, her legs perpendicular, resting on a nearby banister so that they form a little drawbridge, which she raises and lowers as people pass by.</p>
+<p class="calibre3">I order something called a Trapiste beer. It’s warm. Normally, I don’t like warm beer, but I like this beer. All around me I hear the pleasant chortle of Dutch. It sounds vaguely familiar, though I can’t imagine why. Then it dawns on me. Dutch sounds exactly like English spoken backward. I know this because I’ve heard a lot of backward English. In the predigital era, I’d edit tape for my NPR stories on a reel-to-reel tape deck the size of a TV set. Invariably, this would entail playing segments of the tape backward. As I sit in the café, with my little cigar and my warm Trapiste beer, I wonder if I recorded someone speaking Dutch and played that backward, would it sound like regular English?</p>
+<p class="calibre3">As you have no doubt surmised, I am a man with time on my hands. Lots of time. But that is the whole point of a European café: to linger excessively and utterly without guilt. No wonder most of the world’s great philosophers came from Europe. They hung out at cafés and let their minds wander until some radically new school of philosophy—existentialism, say—popped into their heads. I have not come here to invent a new school of philosophy. Not exactly. I am engaged in what the French call <em class="calibre1">la chasse au bonheur,</em> the hunt for happiness.</p>
+<p class="calibre3">Specifically, my prey is a Dutch professor named Ruut Veenhoven: the godfather of happiness research. Veenhoven runs something called the World Database of Happiness. It is no joke. Veenhoven has collected, in one location, the sum of human knowledge about what makes us happy, what does not, and, of particular interest to me, which places are the happiest. If there is indeed a road map of happiness out there, an atlas of bliss, then Ruut Veenhoven will know about it.</p>
+<p class="calibre3">I leave the café, reluctantly, and head back to my hotel for dinner. Rotterdam is not a beautiful city. It is gray and dull, with few sights of interest. Still, Rotterdam’s mix of native Dutch and immigrants, many of them Muslims, leads to some interesting juxtapositions. The Cleopatra Sex Shop, the window display of which consists of a menagerie of large and alarmingly lifelike dildos, is only one block from the Pakistan Islamic Center. At one point, I catch a whiff of marijuana, the fragrant aroma of Dutch tolerance: secondhand stoke. Two blocks later, I see a man perched on a ladder, hanging a giant yellow clog on a storefront, while below two Middle Eastern men greet each other with symmetrical pecks on the cheek. I don’t know exactly where they’re from, but some of the immigrants here come from countries where alcohol is illegal and women are covered from head to toe. In their adopted home, marijuana is legal, and so is prostitution. No wonder I sniff tension in the air, mingling with the cannabis.</p>
+<p class="calibre3">The hotel dining room is small, cozy. The Dutch do cozy well. I order the asparagus soup. It’s good. The waiter clears my bowl and then says, “Now maybe you would like some intercourse.”</p>
+<p class="calibre3">“Excuse me?”</p>
+<p class="calibre3">“Intercourse. You can have intercourse.”</p>
+<p class="calibre3">I’m thinking, Wow, the Dutch really are a permissive bunch, when it dawns on me that he is speaking of something else entirely. Inter course. As in “between courses.”</p>
+<p class="calibre3">“Yes,” I say, relieved. “That would be nice.”</p>
+<p class="calibre3">And so I do. I have inter course, right there in the Hotel van Walsum dining room. I enjoy it very much, this unhurried dining experience. I sip my beer, stare into space, and, in general, do nothing—until the waiter brings the grilled salmon, indicating that, for now, my inter course is over.</p>
+<p class="spb">In the morning, I take the subway to my Holy Grail: the World Database of Happiness, or WDH. Normally, I do not associate the words “happiness” and “database,” but this is different. The World Database of Happiness is the secularist’s answer to the Vatican and Mecca and Jerusalem and Lhasa, all rolled into one. Here you can, with the click of a mouse, access the secrets of happiness. Secrets based not on ephemeral revelations in some ancient desert but on modern science; secrets inscribed not on parchment but on hard drives; written not in Aramaic but in the language of our times, binary code.</p>
+<p class="calibre3">I walk a few blocks from the subway and am instantly disappointed. The college campus where the WDH is housed looks more like a suburban office park than a center of bliss, the repository of humanity’s knowledge about happiness. I try to shrug off this feeling. After all, what was I expecting? The Wizard of Oz? Willy Wonka and the Oompa Loompas scurrying around shouting ecstatically, “We’ve got it, we’ve got it. The secret to happiness”? No, I guess not, but I had been hoping for something a little less sterile. More happy, less data.</p>
+<p class="calibre3">I walk down a nondescript corridor and knock on a nondescript office door. A man with a Dutch accent yells for me to enter. There he is. Dr. Feelgood himself. Ruut Veenhoven is a trim man, in his early sixties, I guess. He has a salt-and-pepper beard and bright, electric eyes. He is dressed in all black—stylish, not morbid black. He looks vaguely familiar, and then I realize why: He looks like a Dutch Robin Williams, with the same coiled energy and slightly impish grin. He springs from his chair and offers his hand and a business card, which reads: “Ruut Veenhoven, Professor of Happiness Studies.”</p>
+<p class="calibre3">His office looks like that of any professor: books and papers everywhere—not especially messy, but not the neatest office I’ve ever seen, either. Conspicuously, there is not a smiley face in sight. Veenhoven pours me a cup of green tea. Then he grows silent and waits for me to talk.</p>
+<p class="calibre3">I don’t know what to say. As a journalist, I’ve conducted hundreds of interviews. I’ve interviewed kings and presidents and prime ministers, not to mention heads of terrorist organizations like Hezbollah. Yet sitting here, across from this kindly Dutch professor who looks like Robin Williams, I am stumped. Part of me, the part that desperately craves peace of mind, wants to shout, “Dr. Veenhoven, you’ve crunched the numbers, you’ve studied happiness your entire professional life; please give it to me. Give me the damn formula for happiness!”</p>
+<p class="calibre3">But I don’t say that. I can’t shake years of training, which tell me to maintain my distance from my subject and never, ever reveal too much about myself. I’m like the off-duty cop who is out to dinner with his family but can’t stop scanning the restaurant for potential shooters.</p>
+<p class="calibre3">So instead of unburdening my soul, I resort to an old trick employed by journalists and women who want to put a date at ease. “Dr. Veenhoven,” I finally say, “tell me about yourself. How did you get into the happiness business?” </p>
+<p class="spb">Veenhoven leans back in his chair, happy to oblige. He came of age in the 1960s. Everyone on his college campus was smoking dope, wearing Che Guevara T-shirts and talking about the good society. Veenhoven also smoked plenty of dope but didn’t wear a Che Guevara T-shirt; and as for those “good societies,” Eastern Bloc countries, Veenhoven found them wanting. Instead of judging a society by its system, he thought, why not judge it by its results? Were its citizens happy? Veenhoven’s hero wasn’t Che Guevara but a socially inept nineteenth-century British barrister named Jeremy Bentham. Bentham famously espoused the utilitarian principle, “the greatest happiness of the greatest number.” Veenhoven would have gladly worn a Jeremy Bentham T-shirt, had such a thing existed.</p>
+<p class="calibre3">Veenhoven was studying sociology—a field that, at the time, meant only the study of sick societies, dysfunctional ones. Its sister discipline, psychology, studied sick minds. But not young Ruut. He was interested in healthy minds and happy places. One day, a bit timid but determined nonetheless, Veenhoven knocked on his advisor’s door and asked if he could please study happiness. His advisor, a sober man with solid academic credentials, told him, in no uncertain terms, to shut up and never mention that word again. Happiness was not a serious subject.</p>
+<p class="calibre3">Veenhoven left, chastised but secretly pleased. He knew he was on to something. It so happened, though the young Dutch graduate student didn’t know at the time, couldn’t possibly have known, that around the world social scientists were waking up to a new discipline: happiness studies. Today, Veenhoven is at the forefront of a field that churns out hundreds of research papers each year. There are happiness conferences and a <em class="calibre1">Journal of Happiness Studies</em> (which Veenhoven edits). Students at Claremont Graduate University in California can now earn an MA or PhD in positive psychology—in happiness.</p>
+<p class="calibre3">Some of Veenhoven’s colleagues still think his old advisor was right, that the study of happiness is misguided, stupid. But they can’t ignore him. His research is out there; it’s cited in journals, and in the academic world that means it matters.</p>
+<p class="calibre3">The contemplation of happiness, of course, is not new. The ancient Greeks and Romans did a lot of it. Aristotle, Plato, Epicurus, and others sweated over the eternal questions. What is the good life? Is pleasure the same as happiness? When are we going to invent indoor plumbing?</p>
+<p class="calibre3">Later, the Greeks and the Romans were joined by others, paler-skinned men from lands farther north who spent an inordinate amount of time in cafés, contemplating life’s inextricable quandaries. Men like Kant, Schopenhauer, Mill, Nietzsche, and, later, Larry David. They, too, had much to say about happiness.</p>
+<p class="spb">And then there is religion. What is religion if not a guide to happiness, to bliss? Every religion instructs followers in the ways of happiness, be it in this life or the next, be it through submission, meditation, devotion, or, if you happen to belong to the Jewish or Catholic faith, guilt.</p>
+<p class="calibre3">All of this may have been helpful, enlightening even, but it wasn’t science. It was opinions about happiness. Learned opinions, no doubt, but opinions nonetheless, and in today’s world we have little regard for opinions, except possibly our own and then not always. No, what we respect, pay heed to, is hard science or, failing that, soft science. Most of all, we love a good study. Newscasters know instinctively that the best way to get people’s ears to perk up is with these five words: “A new study has found.” It matters little what follows next. A new study has found that red wine is good for you / kills you. A new study has found that homework dulls the brain / enlarges it. We especially like studies that lend credibility to our own idiosyncrasies, as in, “A new study has found that people with messy desks are smarter” or “A new study has found that moderate daily flatulence improves longevity.”</p>
+<p class="calibre3">Yes, if this new science of happiness was to be taken seriously, it needed studies. But first, it needed a vocabulary, a serious jargon. The word “happiness” wouldn’t do. It sounded too frivolous, too easily understood. This was a problem. So the social scientists came up with a doozy: “subjective well-being.” Perfect. Not only was it multisyllabic and virtually impenetrable to laypeople, it also could be condensed into an even more obscure acronym: SWB. To this day, if you want to find the latest scholarly research on happiness, you need to Google “SWB,” not “happiness.” Next came other pieces of the jargon puzzle. “Positive affect” is when something feels good; “negative affect” is—you guessed it—when something feels bad.</p>
+<p class="calibre3">Next, the new science of happiness needed data. Numbers. For what is science if not numbers, preferably large ones with lots of decimal points. And how do scientists get these numbers? They measure things.</p>
+<p class="calibre3">Oh, no. Major roadblock. How can you measure happiness? Happiness is a feeling, a mood, an outlook on life. Happiness can’t be measured.</p>
+<p class="calibre3">Or can it? Neuroscientists at the University of Iowa have identified the regions of the brain associated with good and bad moods. They do this by hooking up research subjects (college students in need of quick cash) to MRI machines and then showing them a series of pictures. When they show people pleasant pictures—-bucolic landscapes, dolphins playing—parts of the prefrontal lobe are activated. When they show unpleasant images—a bird covered in oil, a dead soldier with parts of his face missing—the more primitive parts of the brain light up. Happy feelings, in other words, register in the regions of the brain that have evolved most recently. It raises an intriguing question: Are we, in evolutionary if not personal terms, slouching toward happiness?</p>
+<p class="calibre3">Researchers have toyed with other ways of measuring happiness: stress hormones, cardiac activity, and something called “facial coding”—counting how many times we smile, for instance. All of these techniques are promising, and, indeed, one day scientists may be able to “take your happiness” the way a doctor today takes your temperature.</p>
+<p class="calibre3">Now, though, the main way researchers measure happiness is through a far more low-tech and, when you think about it, quite obvious technique. They ask people how happy they are. Really. “All things considered, how happy would you say you are these days?” That is the question, more or less, that surveyors have asked people around the world for the past forty or so years.</p>
+<p class="calibre3">Ruut Veenhoven and his colleagues claim that the answers are remarkably accurate. “You can have a disease and not know it,” Veenhoven tells me, “but you can’t be happy and not know it. By definition, if you are happy, you know it.”</p>
+<p class="calibre3">Perhaps, but man’s capacity for self-deception is not to be underestimated. Are we indeed capable of gauging our own happiness? There was this moment, for instance, when I was seventeen years old that I thought I was very happy indeed, completely content, without a care in the world. In retrospect, it turns out I was just extremely stoned at the time. Plus, beer was involved. I think.</p>
+<p class="calibre3">Another speed bump on the road to happiness: Different people define happiness differently. Your idea of happiness may not be the same as mine. My favorite definition of happiness sprang from the mind of an unhappy man named Noah Webster. When he penned the first American dictionary, in 1825, he defined happiness as “the agreeable sensations which spring from the enjoyment of good.” That says it all. It has “agreeable sensations,” the notion that happiness is a feeling. The hedonists would get off on that. It has “enjoyment,” which signifies that happiness is more than pure animal pleasure. And enjoyment of what? Of the “good,” a word that, I think, Webster should have capitalized. The Good. We want to feel good but for the right reasons. Aristotle would have approved of that. “Happiness is a virtuous activity of the soul,” he said. A virtuous life, in other words, is a happy life.</p>
+<p class="calibre3">We humans are creatures of the last five minutes. In one study, people who found a dime on the pavement a few minutes before being queried on the happiness question reported higher levels of satisfaction with their overall lives than those who did not find a dime. Researchers have tried to get around this quirk of the human psyche through something called the experience-sampling method. They strap little Palm Pilot–like devices to research subjects and then ping them maybe a dozen times a day. Are you happy now? What about now? Here, though, the Heisenberg principle rears its head. The mere act of observing something alters it. All of that pinging, in other words, might affect the subjects’ happiness.</p>
+<p class="calibre3">Also, most people want to present a happy face to the world. That explains why people consistently report higher happiness levels when they are asked in face-to-face interviews rather than in mail-in surveys. And we report even higher happiness levels if the interviewer is a member of the opposite sex. Instinctively, we know that happy is sexy.</p>
+<p class="calibre3">Happiness researchers, however, are quick to defend their work. For one thing, people’s answers are consistent over time. Also, researchers corroborate people’s responses by, for instance, checking with their friends and relatives. “Does Joe seem like a happy person to you?” It turns out that these outside assessments tend to jibe with our own degree of perceived happiness. Besides, scientists measure IQ and attitudes toward issues like racism, which are also subjective. Why not happiness as well? Or as Mihály Csíkszentmihalyi, a giant in the field of happiness studies, put it: “When a person says he is ‘pretty happy’ one has no right to ignore his statement, or interpret it to mean the opposite.”</p>
+<p class="calibre3">So assuming that these happiness studies are reasonably accurate, what have they found? Who is happy? And how do I join them? This is where Ruut Veenhoven and his database come into play.</p>
+<p class="calibre3">Veenhoven leads me to a room as nondescript and soulless as the rest of the campus. Inside is a bank of a half-dozen computers. They are manned by the small, mostly volunteer staff of the WDH, none of whom looks especially happy. I let this incongruity slide; even an overweight doctor might have some good advice about exercise and diet.</p>
+<p class="calibre3">I pause to take in the moment. On these computers, right in front of me, is humanity’s accumulated knowledge of happiness. After virtually ignoring the subject for decades, social scientists are now making up for lost time, churning out research papers at a prodigious rate. Happy, you might say, is the new sad.</p>
+<p class="calibre3">The research findings are alternatively obvious and counter-intuitive, expected and surprising. In many cases, the findings validate the great thinkers of centuries past—as if the ancient Greeks need validation. Here are a few of the findings, in no particular order.</p>
+<p class="calibre3">Extroverts are happier than introverts; optimists are happier than pessimists; married people are happier than singles, though people with children are no happier than childless couples; Republicans are happier than Democrats; people who attend religious services are happier than those who do not; people with college degrees are happier than those without, though people with advanced degrees are less happy than those with just a BA; people with an active sex life are happier than those without; women and men are equally happy, though women have a wider emotional range; having an affair will make you happy but will not compensate for the massive loss of happiness that you will incur when your spouse finds out and leaves you; people are least happy when they’re commuting to work; busy people are happier than those with too little to do; wealthy people are happier than poor ones, but only slightly.</p>
+<p class="calibre3">So what should we do with these findings? Get married but don’t have kids? Start going to church regularly? Drop out of that PhD program? Not so fast. Social scientists have a hard time unraveling what they call “reverse causality” and what the rest of us call the chicken-and-egg problem. For instance, healthy people are happier than unhealthy ones; or is it that happy people tend to be healthier? Married people are happy; or maybe happy people are more likely to get married? It’s tough to say. Reverse causality is the hobgoblin that makes mischief in many a research project.</p>
+<p class="calibre3">What I really want to know, though, is not who is happy but where they are happy—and why. Veenhoven sighs when I ask about this and pours another cup of tea. Here, the calculations get trickier. Can we really say which countries, which peoples, are happier than others? Has my search for the world’s happiest places ended before it begins?</p>
+<p class="calibre3">All cultures have a word for happiness, and some have many words. But does the English word “happiness” mean the same as the French <em class="calibre1">bonheur</em> or the Spanish <em class="calibre1">felicidad</em> or the Arabic <em class="calibre1">sahaada</em>? In other words, does happiness translate? There’s some evidence that the answer is yes. The Swiss report equal levels of happiness, whether they take the surveys in French, German, or Italian, the country’s three main languages.</p>
+<p class="calibre3">All cultures value happiness, but not to the same degree. East Asian countries tend to emphasize harmony and fulfilling societal obligations rather than individual contentment; perhaps not coincidentally, these countries also report lower levels of happiness, what’s been called the East Asian Happiness Gap, which sounds to me like some sort of Chinese Grand Canyon. Then there is the “social desirability bias.” The concern here is that people answer the happiness surveys not from their heart but in ways that their society would approve of. The Japanese, for instance, are famously self-effacing, afraid to be the proverbial nail that sticks out; they are also, relative to their wealth, not very happy. I lived in Japan for years and never got used to the sight of Japanese women covering their mouths when they laughed or smiled, as if ashamed of their glee.</p>
+<p class="calibre3">We Americans, on the other hand, wear our happiness on our sleeves and, if anything, are guilty of inflating our contentment in order to impress. Here is what a Polish citizen living in the United States told the writer Laura Klos Sokol about Americans: “When Americans say it was great, I know it was good. When they say it was good, I know it was okay. When they say it was okay, I know it was bad.”</p>
+<p class="calibre3">This is going to be tough. The atlas of bliss, if one exists, won’t be easy to read. It’s like that crumpled map sitting in your glove compartment. But I was determined to plow ahead, convinced that while we may not be able to differentiate fine shades of happiness among countries, surely we can say that some countries are happier than others.</p>
+<p class="spb">Veenhoven gives me complete access to his database and wishes me luck, but first he warns me: “You may not like what you find.”</p>
+<p class="calibre3">“What do you mean?”</p>
+<p class="calibre3">The happiest places, he explains, don’t necessarily fit our preconceived notions. Some of the happiest countries in the world—Iceland and Denmark, for instance—are homogeneous, shattering the American belief that there is strength, and happiness, in diversity. One finding, which Veenhoven just uncovered, has made him very unpopular with his fellow sociologists. He found that income distribution does not predict happiness. Countries with wide gaps between the rich and poor are no less happy than countries where the wealth is distributed more equally. Sometimes, they are happier.</p>
+<p class="calibre3">“My colleagues are not amused,” says Veenhoven. “Inequality is big business here in the sociology department. Entire careers have been built on it.”</p>
+<p class="calibre3">I accept his advice politely but think he must be exaggerating about the dangers that lie ahead. I am wrong. Looking for the world’s happiest places can make anyone miserable—or at the least give them a splitting headache. With each click of the mouse, I encounter mysteries and apparent contradictions. Like this: Many of the world’s happiest countries also have high suicide rates. Or this one: People who attend religious services report being happier than those who do not, but the world’s happiest nations are secular. And, oh, the United States, the richest, most powerful country in the world, is no happiness superpower. Many other nations are happier than we are.</p>
+<p class="spb">My days in Rotterdam fall into a pleasant routine. I have breakfast at the hotel, perhaps indulge in a bit of inter course, then ride the subway to the World Database of Happiness. There, I sift through the research papers and the data, looking for my elusive atlas of bliss. In the evenings, I go to my café (I never do learn its name), where I drink warm beer, smoke little cigars, and ponder the nature of happiness. It’s a routine that involves much contemplation, moderate amounts of intoxicants, and very little actual work. It is, in other words, a very European routine. I’m going native.</p>
+<p class="calibre3">For some reason, I decide to start at the bottom of the happiness ladder and work my way up. Which countries are the least happy? Not surprisingly, many African nations fall into this category. Tanzania, Rwanda, and Zimbabwe are near the very bottom of the happiness well. A few African countries, such as Ghana, manage to achieve middling levels of happiness, but that’s about it. The reasons seem obvious. Extreme poverty is not conducive to happiness. The myth of the happy, noble savage is just that: a myth. If our basic needs are not met, we’re not likely to be happy.</p>
+<p class="calibre3">Curiously, I find another batch of nations stuck at the bottom of the happiness spectrum: the former Soviet republics—Belarus, Moldova, Ukraine, Uzbekistan, and a dozen others.</p>
+<p class="calibre3">Are democracies happier than dictatorships? Not necessarily. Many of those former Soviet republics are quasi-democracies; certainly they are freer now than in Soviet times, yet their happiness levels have decreased since the collapse of the Soviet Union. Ron Inglehart, a professor at the University of Michigan, has spent most of his career studying the relationship between democracy and happiness. He believes that the causality flows the other way; democracies don’t promote happiness, but happy places are more likely to be democratic—which, of course, does not bode well for Iraq.</p>
+<p class="calibre3">What about the warm and sunny places, those tropical paradises that we associate with happiness and pay good money to vacation in? It turns out that they are not so happy. Fiji, Tahiti, the Bahamas—they all fall into the middle latitudes of happiness. Happy countries tend to be those in temperate climates, and some of the happiest—Iceland, for instance—are downright cold.</p>
+<p class="calibre3">Believe it or not, most people in the world say they are happy. Virtually every country in the world scores somewhere between five and eight on a ten-point scale. There are a few exceptions: The sullen Moldovans consistently score about 4.5, and for a brief period in 1962 the citizens of the Dominican Republic could muster only a 1.6, the lowest level of happiness ever recorded on the planet. But, as I said, these are rare exceptions. Most of the world is happy.</p>
+<p class="calibre3">Why does this come as such a surprise? Two types of people, I think, are to blame: journalists and philosophers. The media, of which I am a culpable member, report, as a rule, only bad news: wars, famine, the latest Hollywood couple’s implosion. I don’t mean to belittle the troubles in the world, and God knows I have made a good living reporting them, but we journalists do paint a distorted picture.</p>
+<p class="calibre3">The philosophers, though, are the real culprits—the brooding white guys from Europe. They tended to wear all black, smoke too much, and had trouble getting dates. So they hung out, alone, in cafés, pondered the universe, and—surprise!—concluded it is an unhappy place. Of course it is. That is, if you happen to be a lonely, brooding, pasty-skinned white guy. The happy people of, say, eighteenth-century Heidelberg were busy being happy, not writing long, rambling diatribes intended to torture some not-yet-born college student in Bloomington who needs to pass Philosophy 101 in order to graduate.</p>
+<p class="calibre3">Worst of all was Freud. While not technically a brooding philosopher, Freud did much to shape our views on happiness. He once said: “The intention that Man should be happy is not in the plan of Creation.” That is a remarkable statement, especially coming from a man whose ideas forged the foundation of our mental-health system. Imagine if some doctor in turn-of-the-century Vienna had declared: “The intention that Man should have a healthy body is not in the plan of Creation.” We’d probably lock him up, or at least strip him of his medical license. We certainly wouldn’t base our entire medical system on his ideas. Yet that is exactly what we did with Freud.</p>
+<p class="calibre3">Still, most people are happy? It doesn’t sit right with me. I’m a person, and I’m not particularly happy. Which got me thinking: Where did I fall in Veenhoven’s constellation of happiness data? If I am honest, and I might as well be if I’m taking the trouble to write this, I’d say I was a six. That makes me considerably less happy than my fellow Americans, but according to the WDH I’d feel right at home in Croatia.</p>
+<p class="calibre3">I’m inclined to agree with linguist and fellow curmudgeon Anna Wierzbicka, who, when faced with this very same claim that most people are reasonably happy replied with one simple question: “Who <em class="calibre1">are</em> those reportedly happy people?”</p>
+<p class="calibre3">Who indeed. My head hurts. Have I embarked on a futile mission to find the world’s happiest places? Then I notice that one country scores consistently high on the happiness scale—not number one but darned close. It also happens to be the country I am visiting at this very moment.</p>
+<p class="calibre3">I retire to my café, order a beer, and ponder Dutch happiness. Why should the Netherlands, a flat and nondescript country, be so happy? For starters, the Dutch are European, and that means they don’t have to worry about losing their health insurance, or for that matter their job. The state will take care of them. They get a gazillion weeks of vacation each year and, being European, are also entitled to, at no extra cost, a vaguely superior attitude toward Americans. Does smugness lead to happiness? I wonder, sipping my Trapiste beer. No, there must be something else.</p>
+<p class="calibre3">Tolerance! This is the original “don’t tread on me” nation. A nation where, it seems, the adults are out of town and the teenagers are in charge. Not just for the weekend, either. All of the time.</p>
+<p class="calibre3">The Dutch will tolerate anything, even intolerance. In the past few decades they have welcomed, with open arms, immigrants from around the world, including those from nations that don’t tolerate things like religious freedom and women who work or drive or show their faces. Dutch tolerance comes at a cost, as the murder of the filmmaker Theo van Gogh by a Muslim extremist highlighted. But Veenhoven’s research shows that tolerant people tend to be happy.</p>
+<p class="calibre3">What exactly does Dutch tolerance look like, in an everyday way? Three things come to mind: drugs, prostitution, and cycling. In the Netherlands, all three activities are legal. All three can easily lead to happiness, provided that certain precautions are taken. Wearing a helmet while cycling, for instance.</p>
+<p class="calibre3">I needed to investigate one of these activities, up close, in order to get at the heart of Dutch happiness. But which one? Cycling is certainly worthwhile, and God knows the Dutch love their bicycles, but it was chilly outside, too chilly to get on a bike. Prostitution? That activity takes place indoors, usually, so the weather wouldn’t be a factor. And it clearly makes some people happy. But there was the issue of my wife. She has supported my happiness research, up to a point, and something told me that engaging the services of a Dutch prostitute lies beyond that point.</p>
+<p class="calibre3">So drugs it is. Soft drugs, marijuana and hashish, are legal in the Netherlands. They are served in coffee shops, which aren’t really coffee shops at all but drug dens. “Coffee shop” sounds more respectable than “drug den,” though.</p>
+<p class="calibre3">But which one should I try? There are so many to choose from. In Rotterdam, every third or fourth storefront, it seems, is a “coffee shop.” I’m tempted by one called Sky High, but the name seems too . . . obvious. Others look too hip. I haven’t gotten high since my junior year in college. I don’t want to make a fool of myself.</p>
+<p class="calibre3">Then I spot it. The Alpha Blondie Coffee Shop. It’s perfect. Besides the irresistible name, the Alpha Blondie also offers ventilation, an open window, which is a definite plus. I press a buzzer then walk up a narrow staircase. Inside, there’s a foosball table and a cooler filled with orange Fanta and Coke, as well as plenty of Snickers and M&amp;M’s, for the munchies, no doubt. I’m surprised to see an actual coffee machine in this coffee shop, but it looks like it hasn’t been used in months. A prop, I conclude.</p>
+<p class="calibre3">Bad 1970s music is playing, and a little too loudly. On one wall, I notice a painting that looks like it was done by a talented sixth-grader. In the foreground is a car that has just plowed into a tree, with skid marks trailing off toward the horizon. Underneath is written: “Some roads only exist in drugged minds.” I’m not sure if this is meant as a warning about these roads or as an endorsement of them.</p>
+<p class="calibre3">Everyone here seems to be a regular, except, of course, for me. I’m instantly transported back to my college dorm room in New Jersey. Trying to be cool, trying to fit in, but failing miserably.</p>
+<p class="calibre3">An olive-skinned man comes over to me and, in broken English, explains the menu. Today they are featuring Thai marijuana, he says, as if describing the soup du jour, as well as two types of hashish: Moroccan and Afghan.</p>
+<p class="calibre3">I’m at a loss. So I do what I always do when the menu proves overwhelming. I ask the waiter for his recommendation.</p>
+<p class="calibre3">“Do you prefer strong or mild?” he asks.</p>
+<p class="calibre3">“Mild.”</p>
+<p class="calibre3">“Then I would definitely go with the Moroccan.”</p>
+<p class="calibre3">I hand him a five-euro note (about six dollars), and he hands me a baggie with a chalky brown slab the size of a postage stamp.</p>
+<p class="calibre3">I have absolutely no idea what to do with it.</p>
+<p class="calibre3">For a moment, I’m tempted to call my old college roommate, Rusty Fishkind. Rusty would know what to do. He was always the cool one. Rusty handled a bong the way Yo-Yo Ma handles a cello. I’m sure Rusty is a corporate lawyer now, living in the suburbs with four kids, but still, I bet he would know what to do with this chunk of Moroccan hash.</p>
+<p class="calibre3">As if on cue, Linda Ronstadt pipes up. <em class="calibre1">You’re no good, you’re no good, baby, you’re no good.</em></p>
+<p class="calibre3">I briefly consider swallowing the hash and washing it down with a Pepsi but think better of that idea and just fumble with the hash instead, trying to look as helpless as possible, which under the circumstances comes naturally. Finally, a bearded man wearing a leather jacket takes pity on me. Without saying a word, he takes the hash in his hands and crumbles it like feta cheese. Then he unrolls a cigarette, a regular cigarette, and inserts the hash. After a fluent shake, lick, and tap, he hands the now hash-infused cigarette back to me.</p>
+<p class="calibre3">I thank him and light up.</p>
+<p class="calibre3">A few observations. First of all, I do recommend the Moroccan. It is indeed a smooth smoke. Second, at least half the fun of engaging in illicit activity is the illicit part and not the activity part. In other words, smoking hash legally in Rotterdam is not nearly as much fun as doing it illicitly in your college dorm room with Rusty Fishkind, knowing that at any moment you might get caught.</p>
+<p class="calibre3">Still, I am feeling good. No pain. And, as the Moroccan settles into my cerebral cortex, I wonder: What if I stayed like this all of the time? Wouldn’t I be happy all of the time? I could end my search for the world’s happiest places right here, at the Alpha Blondie Coffee Shop in Rotterdam. Maybe this is the happiest place in the world.</p>
+<p class="calibre3">The philosopher Robert Nozick had something to say on the subject. Not about the Alpha Blondie, which I doubt he’s frequented, nor about Moroccan hash, which he may or may not have smoked. But Nozick did think long and hard about the relationship between hedonism and happiness. He once devised a thought experiment called the Experience Machine.</p>
+<p class="calibre3">Imagine that “superduper neuropsychologists” have figured out a way to stimulate a person’s brain in order to induce pleasurable experiences. It’s perfectly safe, no chance of a malfunction, and not harmful to your health. You would experience constant pleasure for the rest of your life. Would you do it? Would you plug into the Experience Machine?</p>
+<p class="calibre3">If not, argued Nozick, then you’ve just proved that there is more to life than pleasure. We want to achieve our happiness and not just experience it. Perhaps we even want to experience unhappiness, or at least leave open the possibility of unhappiness, in order to truly appreciate happiness.</p>
+<p class="calibre3">Regrettably, I find myself in agreement with Nozick. I would not plug myself into the Experience Machine, and therefore I will not be relocating to the Alpha Blondie Coffee Shop. Which is a shame. Did I mention how smooth the Moroccan hash is?</p>
+<p class="spb">The next morning, my mind Moroccan-free, I make my daily trip to the WDH. I mention my little experiment to Veenhoven. He approves, of course. In fact, when I had first pointed out that many of the activities that the Dutch engage in regularly, such as prostitution and drugs, would get me arrested in the United States, he just smiled slyly and said, “I know. Enjoy.”</p>
+<p class="calibre3">Veenhoven says the database might provide some answers to the age-old question: Is pleasure the same as happiness? After a few digital detours, I find a paper that Veenhoven himself wrote. It’s called “Hedonism and Happiness.” I read the abstract.</p>
+<p class="calibre3">“The relation between happiness and consumption of stimulants follows an inverted U-curve. Spoil sports and guzzlers are less happy than modest consumers.” In other words, as the ancient Greeks counseled a few thousand years ago, everything in moderation. I read on and learn that “several studies have observed a positive correlation between permissive attitudes towards sex and personal happiness.” Presumably, these permissive happy people are not the same happy people who are attending church regularly. As for drugs, a 1995 study found that—no surprise—use of hard drugs tends to decrease happiness over time. But what about soft drugs, like, say, Moroccan hash? It turns out that there has been little research in this area.</p>
+<p class="calibre3">How about that, I think, swiveling away from the computer monitor. Last night, at the Alpha Blondie Coffee Shop, on the very first leg of my journey, I was engaged in cutting-edge happiness research. Who knew?</p>
+<p class="spb">It’s my last day in Rotterdam. A forgettable city but one that I will miss nonetheless. It’s time to say goodbye to Veenhoven, and I am never good at goodbyes. I thank him for all of his help, for all of his blissful data. Then, almost as an afterthought, I pause at the door and say, “It must be wonderful working in the field of happiness studies.”</p>
+<p class="calibre3">Veenhoven looks perplexed. “What do you mean?”</p>
+<p class="calibre3">“Well, you must have an abiding faith in mankind’s capacity for happiness.”</p>
+<p class="calibre3">“No, not really.”</p>
+<p class="calibre3">“But you’ve been studying happiness, analyzing it your entire life.”</p>
+<p class="calibre3">“Yes, but it doesn’t matter to me if people are happy or not, as long as some people are happier than others. I can still crunch the numbers.”</p>
+<p class="calibre3">I just stand there for a moment, stunned. Here I thought Veenhoven was a fellow traveler, a comrade in the hunt for happiness, but it turns out that, as they say in the South, he has no dog in this hunt. Or, if you prefer, Veenhoven isn’t a player in the happiness game; he’s the referee, keeping score. And, like any good referee, it matters not one whit to him who wins the game. Happiness or despondency, it’s all the same. As long as one side prevails.</p>
+<p class="calibre3">That is, I suppose, the whole point of this new, dispassionate study of happiness. Veenhoven and the other blissologists desperately wanted academia to take their discipline seriously, lest they be dismissed as New Age faddists. They have succeeded, but I wonder at what cost. In their world, happiness is reduced to yet another statistic, data to be sliced, diced, parsed, run through the computer, and, ultimately, inevitably, reduced to spreadsheets. And I can’t think of anything less happy than a spreadsheet.</p>
+<p class="calibre3">I realize that my visit to the WDH was a fine start but an incomplete one. Nowhere among the eight thousand studies and research papers did I find any mention of the happiness a nation derives from its arts, the pleasure accrued by hearing a particularly lovely poem read aloud and well, or by watching a darned good movie, accompanied by a tub of popcorn, no butter. Nor does the database reveal anything about the invisible threads that bind a family. Some things are beyond measuring.</p>
+<p class="calibre3">So I construct my atlas of bliss, my road map of happiness, based partly on Ruut Veenhoven’s database and partly on my own hunches. Rich or poor, hot or cold, democracy or dictatorship, it matters not. I will follow the happiness scent wherever it leads.</p>
+<p class="calibre3">With my atlas in hand, I board the train at Rotterdam Central. As the train begins to roll and the Dutch countryside glides by, I feel an unexpected sense of relief. Freedom even. Freedom from what? I can’t imagine. My visit was fine. I drank some good beer, smoked some fine hash, and even learned a thing or two about happiness.</p>
+<p class="calibre3">Then it dawns on me. Freedom from all that . . . freedom. Tolerance is great, but tolerance can easily slide into indifference, and that’s no fun at all. Besides, I can’t live with so much slack. I’m too weak. I wouldn’t know when to stop. If I moved to Holland, you’d probably find me a few months later, engulfed in a cloud of Moroccan hash, a hooker under each arm.</p>
+<p class="calibre3">No, the Dutch way is not for me. Perhaps my next destination is the one. I’m heading to a country where the trains run on time, the streets are clean, and tolerance, like everything else, is doled out carefully, in moderation. I am heading to Switzerland.</p>
+</div>
+</body></html>
+	[]
+HTML CONTENT<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>The Geography of Bliss</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link href="../stylesheet.css" rel="stylesheet" type="text/css"/>
+<link href="../page_styles.css" rel="stylesheet" type="text/css"/>
+</head>
+  <body class="calibre">
+<div class="dedication" id="dedication_1">
+<p class="ded"><em class="calibre1">for Sharon</em></p>
+</div>
+</body></html>
+HTML CONTENT<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>The Geography of Bliss</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link href="../stylesheet.css" rel="stylesheet" type="text/css"/>
+<link href="../page_styles.css" rel="stylesheet" type="text/css"/>
+</head>
+  <body class="calibre">
+<div class="dedication" id="epigraph_1">
+<p class="ep"><em class="calibre1">In these days of wars and rumors of wars, haven’t you ever dreamed of a place where there was peace and security, where living was not a struggle but a lasting delight?</em></p>
+<p class="eps"><em class="calibre1">—Lost Horizon,</em> directed by Frank Capra, 1937</p>
+</div>
+</body></html>
+HTML CONTENT<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>The Geography of Bliss</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link href="../stylesheet.css" rel="stylesheet" type="text/css"/>
+<link href="../page_styles.css" rel="stylesheet" type="text/css"/>
+</head>
+  <body class="calibre">
+<div class="dedication" id="introduction_1">
+<p class="fmh"><a href="GeographyofBli_toc.html" class="calibre2">Introduction</a></p>
+<p class="cotx"><span class="dropcap">M</span>y bags were packed and my provisions loaded. I was ready for adventure. And so, on a late summer afternoon, I dragged my reluctant friend Drew off to explore new worlds and, I hoped, to find some happiness along the way. I’ve always believed that happiness is just around the corner. The trick is finding the right corner.</p>
+<p class="calibre3">Not long into our journey, Drew grew nervous. He pleaded with me to turn back, but I insisted we press on, propelled by an irresistible curiosity about what lay ahead. Danger? Magic? I needed to know, and to this day I’m convinced I would have reached wherever it was I was trying to reach had the Baltimore County Police not concluded, impulsively I thought at the time, that the shoulder of a major thoroughfare was no place for a couple of five-year-olds.</p>
+<p class="calibre3">Some people acquire the travel bug. Others are born with it. My affliction, if that’s what it is, went into remission for many years following my aborted expedition with Drew. It resurfaced after college with renewed fury. I desperately wanted to see the world, preferably on someone else’s dime. But how? I had no marketable skills, a stunted sense of morality, and a gloomy disposition. I decided to become a journalist.</p>
+<p class="calibre3">As a foreign correspondent for National Public Radio, I traveled to places such as Iraq, Afghanistan, and Indonesia: unhappy places. On one level, this made perfect sense. Unconsciously, I was observing the first law of writing: Write about what you know. And so, notebook in hand, tape recorder slung over my shoulder, I roamed the world telling the stories of gloomy, unhappy people. The truth is that unhappy people, living in profoundly unhappy places, make for good stories. They tug at heartstrings and inspire pathos.</p>
+<p class="calibre3">They can also be a real bummer.</p>
+<p class="calibre3">What if, I wondered, I spent a year traveling the globe, seeking out not the world’s well-trodden trouble spots but, rather, its unheralded happy places? Places that possess, in spades, one or more of the ingredients that we consider essential to the hearty stew of happiness: money, pleasure, spirituality, family, and chocolate, among others. Around the world, dozens of what-ifs play themselves out every day. What if you lived in a country that was fabulously wealthy and no one paid taxes? What if you lived in a country where failure <em class="calibre1">is</em> an option? What if you lived in a country so democratic that you voted seven times a year? What if you lived in a country where excessive thinking is discouraged? Would you be happy then?</p>
+<p class="calibre3">That’s exactly what I intended to find out, and the result of this admittedly harebrained experiment is the book you now hold in your hands.</p>
+<p class="spb">I was born in the Year of the Smiley Face: 1963. That’s when a graphic designer from Worcester, Massachusetts, named Harvey Ball invented the now-ubiquitous grinning yellow graphic. Originally, Ball’s creation was designed to cheer up people who worked at, of all places, an insurance company, but it has since become synonymous with the frothy, quintessentially American brand of happiness.</p>
+<p class="calibre3">Ball’s cheery icon never worked its magic on me. I am not a happy person, never have been. As a child, my favorite Winnie-the-Pooh character was Eeyore. For most of human history, I would have been considered normal. Happiness, in this life, on this earth, was a prize reserved for the gods and the fortunate few. Today, though, not only is happiness considered possible for anyone to attain, it is expected. Thus I, and millions of others, suffer from the uniquely modern malady that historian Darrin McMahon calls “the unhappiness of not being happy.” It is no fun at all.</p>
+<p class="calibre3">And so, like many others, I’ve worked at it. I never met a self-help book I didn’t like. My bookshelf is a towering, teetering monument to existential angst, brimming with books informing me that happiness lies deep inside of me. If I’m not happy, they counsel, then I’m not digging deep enough.</p>
+<p class="calibre3">This axiom of the self-help industrial complex is so deeply ingrained as to be self-evident. There’s only one problem: It’s not true. Happiness is not inside of us but out there. Or, to be more precise, the line between out there and in here is not as sharply defined as we think.</p>
+<p class="calibre3">The late British-born philosopher Alan Watts, in one of his wonderful lectures on eastern philosophy, used this analogy: “If I draw a circle, most people, when asked what I have drawn, will say I have drawn a circle or a disc, or a ball. Very few people will say I’ve drawn a hole in the wall, because most people think of the inside first, rather than thinking of the outside. But actually these two sides go together—you cannot have what is ‘in here’ unless you have what is ‘out there.’ ”</p>
+<p class="calibre3">In other words, where we are is vital to who we are.</p>
+<p class="calibre3">By “where,” I’m speaking not only of our physical environment but also of our cultural environment. Culture is the sea we swim in—so pervasive, so all-consuming, that we fail to notice its existence until we step out of it. It matters more than we think.</p>
+<p class="calibre3">With our words, we subconsciously conflate geography and happiness. We speak of searching for happiness, of finding contentment, as if these were locations in an atlas, actual places that we could visit if only we had the proper map and the right navigational skills. Anyone who has taken a vacation to, say, some Caribbean island and had flash through their mind the uninvited thought “I could be happy here” knows what I mean.</p>
+<p class="calibre3">Lurking just behind the curtain is, of course, that tantalizing, slippery concept known as paradise. It has beguiled us humans for some time now. Plato imagined the Blessed Isles, a place where happiness flowed like the warm Mediterranean waters. Until the eighteenth century, people believed that biblical paradise, the Garden of Eden, was a real place. It appeared on maps—located, ironically, at the confluence of the Tigris and Euphrates rivers, in what is now modern-day Iraq.</p>
+<p class="calibre3">European explorers prepared for expeditions in search of paradise by learning Aramaic, the language Jesus spoke. I set out on my journey, my search for paradise, speaking not Aramaic but another obscure language, the modern liturgy of bliss spoken by the new apostles of the emerging science of happiness. I brush up on terms like “positive affect” and “hedonic adaptation.” I carry no Bible, just a few <em class="calibre1">Lonely Planet</em> guides and a conviction that, as Henry Miller said, “One’s destination is never a place, but a new way of seeing things.”</p>
+<p class="calibre3">And so, on a typically steamy day in Miami (itself some people’s concept of paradise), I pack my bags and depart my home on what I know full well is a fool’s errand, every bit as foolish as the one I tried to pull off as a peripatetic five-year-old. As the author Eric Hoffer put it, “The search for happiness is one of the chief sources of unhappiness.” That’s okay. I’m already unhappy. I have nothing to lose.</p></div>
+<div class="calibre4" id="calibre_pb_3"></div>
+</body></html>
+HTML CONTENT<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>The Geography of Bliss</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link href="../stylesheet.css" rel="stylesheet" type="text/css"/>
+<link href="../page_styles.css" rel="stylesheet" type="text/css"/>
+</head>
+  <body class="calibre">
+<div class="dedication" id="chapter_1">
+<p class="cn"><a href="GeographyofBli_toc.html#chapter_1" class="calibre2">Chapter 1</a></p>
+<p class="ct">THE NETHERLANDS</p>
+<p class="cst">Happiness Is a Number</p>
+<p class="cotx"><span class="dropcap">I</span>t is a fact of human nature that we derive pleasure from watching others engage in pleasurable acts. This explains the popularity of two enterprises: pornography and cafés. Americans excel at the former, but Europeans do a better job at the latter. The food and the coffee are almost beside the point. I once heard of a café in Tel Aviv that dispensed with food and drink altogether; it served customers empty plates and cups yet charged real money.</p>
+<p class="calibre3">Cafés are theaters where the customer is both audience and performer. I find a wonderful one a block from my hotel in downtown Rotterdam. It is simultaneously large and cozy, upscale and run-down. Nice wood floors, but they look like they haven’t been polished in years. It’s the kind of place where you could spend hours nursing one beer, and I suspect many people here do just that.</p>
+<p class="calibre3">Everyone is smoking, so I join in, lighting up a little cigar. Something about the place makes time feel expansive and I become acutely aware of the smallest details. I notice a woman sitting on a bar stool, her legs perpendicular, resting on a nearby banister so that they form a little drawbridge, which she raises and lowers as people pass by.</p>
+<p class="calibre3">I order something called a Trapiste beer. It’s warm. Normally, I don’t like warm beer, but I like this beer. All around me I hear the pleasant chortle of Dutch. It sounds vaguely familiar, though I can’t imagine why. Then it dawns on me. Dutch sounds exactly like English spoken backward. I know this because I’ve heard a lot of backward English. In the predigital era, I’d edit tape for my NPR stories on a reel-to-reel tape deck the size of a TV set. Invariably, this would entail playing segments of the tape backward. As I sit in the café, with my little cigar and my warm Trapiste beer, I wonder if I recorded someone speaking Dutch and played that backward, would it sound like regular English?</p>
+<p class="calibre3">As you have no doubt surmised, I am a man with time on my hands. Lots of time. But that is the whole point of a European café: to linger excessively and utterly without guilt. No wonder most of the world’s great philosophers came from Europe. They hung out at cafés and let their minds wander until some radically new school of philosophy—existentialism, say—popped into their heads. I have not come here to invent a new school of philosophy. Not exactly. I am engaged in what the French call <em class="calibre1">la chasse au bonheur,</em> the hunt for happiness.</p>
+<p class="calibre3">Specifically, my prey is a Dutch professor named Ruut Veenhoven: the godfather of happiness research. Veenhoven runs something called the World Database of Happiness. It is no joke. Veenhoven has collected, in one location, the sum of human knowledge about what makes us happy, what does not, and, of particular interest to me, which places are the happiest. If there is indeed a road map of happiness out there, an atlas of bliss, then Ruut Veenhoven will know about it.</p>
+<p class="calibre3">I leave the café, reluctantly, and head back to my hotel for dinner. Rotterdam is not a beautiful city. It is gray and dull, with few sights of interest. Still, Rotterdam’s mix of native Dutch and immigrants, many of them Muslims, leads to some interesting juxtapositions. The Cleopatra Sex Shop, the window display of which consists of a menagerie of large and alarmingly lifelike dildos, is only one block from the Pakistan Islamic Center. At one point, I catch a whiff of marijuana, the fragrant aroma of Dutch tolerance: secondhand stoke. Two blocks later, I see a man perched on a ladder, hanging a giant yellow clog on a storefront, while below two Middle Eastern men greet each other with symmetrical pecks on the cheek. I don’t know exactly where they’re from, but some of the immigrants here come from countries where alcohol is illegal and women are covered from head to toe. In their adopted home, marijuana is legal, and so is prostitution. No wonder I sniff tension in the air, mingling with the cannabis.</p>
+<p class="calibre3">The hotel dining room is small, cozy. The Dutch do cozy well. I order the asparagus soup. It’s good. The waiter clears my bowl and then says, “Now maybe you would like some intercourse.”</p>
+<p class="calibre3">“Excuse me?”</p>
+<p class="calibre3">“Intercourse. You can have intercourse.”</p>
+<p class="calibre3">I’m thinking, Wow, the Dutch really are a permissive bunch, when it dawns on me that he is speaking of something else entirely. Inter course. As in “between courses.”</p>
+<p class="calibre3">“Yes,” I say, relieved. “That would be nice.”</p>
+<p class="calibre3">And so I do. I have inter course, right there in the Hotel van Walsum dining room. I enjoy it very much, this unhurried dining experience. I sip my beer, stare into space, and, in general, do nothing—until the waiter brings the grilled salmon, indicating that, for now, my inter course is over.</p>
+<p class="spb">In the morning, I take the subway to my Holy Grail: the World Database of Happiness, or WDH. Normally, I do not associate the words “happiness” and “database,” but this is different. The World Database of Happiness is the secularist’s answer to the Vatican and Mecca and Jerusalem and Lhasa, all rolled into one. Here you can, with the click of a mouse, access the secrets of happiness. Secrets based not on ephemeral revelations in some ancient desert but on modern science; secrets inscribed not on parchment but on hard drives; written not in Aramaic but in the language of our times, binary code.</p>
+<p class="calibre3">I walk a few blocks from the subway and am instantly disappointed. The college campus where the WDH is housed looks more like a suburban office park than a center of bliss, the repository of humanity’s knowledge about happiness. I try to shrug off this feeling. After all, what was I expecting? The Wizard of Oz? Willy Wonka and the Oompa Loompas scurrying around shouting ecstatically, “We’ve got it, we’ve got it. The secret to happiness”? No, I guess not, but I had been hoping for something a little less sterile. More happy, less data.</p>
+<p class="calibre3">I walk down a nondescript corridor and knock on a nondescript office door. A man with a Dutch accent yells for me to enter. There he is. Dr. Feelgood himself. Ruut Veenhoven is a trim man, in his early sixties, I guess. He has a salt-and-pepper beard and bright, electric eyes. He is dressed in all black—stylish, not morbid black. He looks vaguely familiar, and then I realize why: He looks like a Dutch Robin Williams, with the same coiled energy and slightly impish grin. He springs from his chair and offers his hand and a business card, which reads: “Ruut Veenhoven, Professor of Happiness Studies.”</p>
+<p class="calibre3">His office looks like that of any professor: books and papers everywhere—not especially messy, but not the neatest office I’ve ever seen, either. Conspicuously, there is not a smiley face in sight. Veenhoven pours me a cup of green tea. Then he grows silent and waits for me to talk.</p>
+<p class="calibre3">I don’t know what to say. As a journalist, I’ve conducted hundreds of interviews. I’ve interviewed kings and presidents and prime ministers, not to mention heads of terrorist organizations like Hezbollah. Yet sitting here, across from this kindly Dutch professor who looks like Robin Williams, I am stumped. Part of me, the part that desperately craves peace of mind, wants to shout, “Dr. Veenhoven, you’ve crunched the numbers, you’ve studied happiness your entire professional life; please give it to me. Give me the damn formula for happiness!”</p>
+<p class="calibre3">But I don’t say that. I can’t shake years of training, which tell me to maintain my distance from my subject and never, ever reveal too much about myself. I’m like the off-duty cop who is out to dinner with his family but can’t stop scanning the restaurant for potential shooters.</p>
+<p class="calibre3">So instead of unburdening my soul, I resort to an old trick employed by journalists and women who want to put a date at ease. “Dr. Veenhoven,” I finally say, “tell me about yourself. How did you get into the happiness business?” </p>
+<p class="spb">Veenhoven leans back in his chair, happy to oblige. He came of age in the 1960s. Everyone on his college campus was smoking dope, wearing Che Guevara T-shirts and talking about the good society. Veenhoven also smoked plenty of dope but didn’t wear a Che Guevara T-shirt; and as for those “good societies,” Eastern Bloc countries, Veenhoven found them wanting. Instead of judging a society by its system, he thought, why not judge it by its results? Were its citizens happy? Veenhoven’s hero wasn’t Che Guevara but a socially inept nineteenth-century British barrister named Jeremy Bentham. Bentham famously espoused the utilitarian principle, “the greatest happiness of the greatest number.” Veenhoven would have gladly worn a Jeremy Bentham T-shirt, had such a thing existed.</p>
+<p class="calibre3">Veenhoven was studying sociology—a field that, at the time, meant only the study of sick societies, dysfunctional ones. Its sister discipline, psychology, studied sick minds. But not young Ruut. He was interested in healthy minds and happy places. One day, a bit timid but determined nonetheless, Veenhoven knocked on his advisor’s door and asked if he could please study happiness. His advisor, a sober man with solid academic credentials, told him, in no uncertain terms, to shut up and never mention that word again. Happiness was not a serious subject.</p>
+<p class="calibre3">Veenhoven left, chastised but secretly pleased. He knew he was on to something. It so happened, though the young Dutch graduate student didn’t know at the time, couldn’t possibly have known, that around the world social scientists were waking up to a new discipline: happiness studies. Today, Veenhoven is at the forefront of a field that churns out hundreds of research papers each year. There are happiness conferences and a <em class="calibre1">Journal of Happiness Studies</em> (which Veenhoven edits). Students at Claremont Graduate University in California can now earn an MA or PhD in positive psychology—in happiness.</p>
+<p class="calibre3">Some of Veenhoven’s colleagues still think his old advisor was right, that the study of happiness is misguided, stupid. But they can’t ignore him. His research is out there; it’s cited in journals, and in the academic world that means it matters.</p>
+<p class="calibre3">The contemplation of happiness, of course, is not new. The ancient Greeks and Romans did a lot of it. Aristotle, Plato, Epicurus, and others sweated over the eternal questions. What is the good life? Is pleasure the same as happiness? When are we going to invent indoor plumbing?</p>
+<p class="calibre3">Later, the Greeks and the Romans were joined by others, paler-skinned men from lands farther north who spent an inordinate amount of time in cafés, contemplating life’s inextricable quandaries. Men like Kant, Schopenhauer, Mill, Nietzsche, and, later, Larry David. They, too, had much to say about happiness.</p>
+<p class="spb">And then there is religion. What is religion if not a guide to happiness, to bliss? Every religion instructs followers in the ways of happiness, be it in this life or the next, be it through submission, meditation, devotion, or, if you happen to belong to the Jewish or Catholic faith, guilt.</p>
+<p class="calibre3">All of this may have been helpful, enlightening even, but it wasn’t science. It was opinions about happiness. Learned opinions, no doubt, but opinions nonetheless, and in today’s world we have little regard for opinions, except possibly our own and then not always. No, what we respect, pay heed to, is hard science or, failing that, soft science. Most of all, we love a good study. Newscasters know instinctively that the best way to get people’s ears to perk up is with these five words: “A new study has found.” It matters little what follows next. A new study has found that red wine is good for you / kills you. A new study has found that homework dulls the brain / enlarges it. We especially like studies that lend credibility to our own idiosyncrasies, as in, “A new study has found that people with messy desks are smarter” or “A new study has found that moderate daily flatulence improves longevity.”</p>
+<p class="calibre3">Yes, if this new science of happiness was to be taken seriously, it needed studies. But first, it needed a vocabulary, a serious jargon. The word “happiness” wouldn’t do. It sounded too frivolous, too easily understood. This was a problem. So the social scientists came up with a doozy: “subjective well-being.” Perfect. Not only was it multisyllabic and virtually impenetrable to laypeople, it also could be condensed into an even more obscure acronym: SWB. To this day, if you want to find the latest scholarly research on happiness, you need to Google “SWB,” not “happiness.” Next came other pieces of the jargon puzzle. “Positive affect” is when something feels good; “negative affect” is—you guessed it—when something feels bad.</p>
+<p class="calibre3">Next, the new science of happiness needed data. Numbers. For what is science if not numbers, preferably large ones with lots of decimal points. And how do scientists get these numbers? They measure things.</p>
+<p class="calibre3">Oh, no. Major roadblock. How can you measure happiness? Happiness is a feeling, a mood, an outlook on life. Happiness can’t be measured.</p>
+<p class="calibre3">Or can it? Neuroscientists at the University of Iowa have identified the regions of the brain associated with good and bad moods. They do this by hooking up research subjects (college students in need of quick cash) to MRI machines and then showing them a series of pictures. When they show people pleasant pictures—-bucolic landscapes, dolphins playing—parts of the prefrontal lobe are activated. When they show unpleasant images—a bird covered in oil, a dead soldier with parts of his face missing—the more primitive parts of the brain light up. Happy feelings, in other words, register in the regions of the brain that have evolved most recently. It raises an intriguing question: Are we, in evolutionary if not personal terms, slouching toward happiness?</p>
+<p class="calibre3">Researchers have toyed with other ways of measuring happiness: stress hormones, cardiac activity, and something called “facial coding”—counting how many times we smile, for instance. All of these techniques are promising, and, indeed, one day scientists may be able to “take your happiness” the way a doctor today takes your temperature.</p>
+<p class="calibre3">Now, though, the main way researchers measure happiness is through a far more low-tech and, when you think about it, quite obvious technique. They ask people how happy they are. Really. “All things considered, how happy would you say you are these days?” That is the question, more or less, that surveyors have asked people around the world for the past forty or so years.</p>
+<p class="calibre3">Ruut Veenhoven and his colleagues claim that the answers are remarkably accurate. “You can have a disease and not know it,” Veenhoven tells me, “but you can’t be happy and not know it. By definition, if you are happy, you know it.”</p>
+<p class="calibre3">Perhaps, but man’s capacity for self-deception is not to be underestimated. Are we indeed capable of gauging our own happiness? There was this moment, for instance, when I was seventeen years old that I thought I was very happy indeed, completely content, without a care in the world. In retrospect, it turns out I was just extremely stoned at the time. Plus, beer was involved. I think.</p>
+<p class="calibre3">Another speed bump on the road to happiness: Different people define happiness differently. Your idea of happiness may not be the same as mine. My favorite definition of happiness sprang from the mind of an unhappy man named Noah Webster. When he penned the first American dictionary, in 1825, he defined happiness as “the agreeable sensations which spring from the enjoyment of good.” That says it all. It has “agreeable sensations,” the notion that happiness is a feeling. The hedonists would get off on that. It has “enjoyment,” which signifies that happiness is more than pure animal pleasure. And enjoyment of what? Of the “good,” a word that, I think, Webster should have capitalized. The Good. We want to feel good but for the right reasons. Aristotle would have approved of that. “Happiness is a virtuous activity of the soul,” he said. A virtuous life, in other words, is a happy life.</p>
+<p class="calibre3">We humans are creatures of the last five minutes. In one study, people who found a dime on the pavement a few minutes before being queried on the happiness question reported higher levels of satisfaction with their overall lives than those who did not find a dime. Researchers have tried to get around this quirk of the human psyche through something called the experience-sampling method. They strap little Palm Pilot–like devices to research subjects and then ping them maybe a dozen times a day. Are you happy now? What about now? Here, though, the Heisenberg principle rears its head. The mere act of observing something alters it. All of that pinging, in other words, might affect the subjects’ happiness.</p>
+<p class="calibre3">Also, most people want to present a happy face to the world. That explains why people consistently report higher happiness levels when they are asked in face-to-face interviews rather than in mail-in surveys. And we report even higher happiness levels if the interviewer is a member of the opposite sex. Instinctively, we know that happy is sexy.</p>
+<p class="calibre3">Happiness researchers, however, are quick to defend their work. For one thing, people’s answers are consistent over time. Also, researchers corroborate people’s responses by, for instance, checking with their friends and relatives. “Does Joe seem like a happy person to you?” It turns out that these outside assessments tend to jibe with our own degree of perceived happiness. Besides, scientists measure IQ and attitudes toward issues like racism, which are also subjective. Why not happiness as well? Or as Mihály Csíkszentmihalyi, a giant in the field of happiness studies, put it: “When a person says he is ‘pretty happy’ one has no right to ignore his statement, or interpret it to mean the opposite.”</p>
+<p class="calibre3">So assuming that these happiness studies are reasonably accurate, what have they found? Who is happy? And how do I join them? This is where Ruut Veenhoven and his database come into play.</p>
+<p class="calibre3">Veenhoven leads me to a room as nondescript and soulless as the rest of the campus. Inside is a bank of a half-dozen computers. They are manned by the small, mostly volunteer staff of the WDH, none of whom looks especially happy. I let this incongruity slide; even an overweight doctor might have some good advice about exercise and diet.</p>
+<p class="calibre3">I pause to take in the moment. On these computers, right in front of me, is humanity’s accumulated knowledge of happiness. After virtually ignoring the subject for decades, social scientists are now making up for lost time, churning out research papers at a prodigious rate. Happy, you might say, is the new sad.</p>
+<p class="calibre3">The research findings are alternatively obvious and counter-intuitive, expected and surprising. In many cases, the findings validate the great thinkers of centuries past—as if the ancient Greeks need validation. Here are a few of the findings, in no particular order.</p>
+<p class="calibre3">Extroverts are happier than introverts; optimists are happier than pessimists; married people are happier than singles, though people with children are no happier than childless couples; Republicans are happier than Democrats; people who attend religious services are happier than those who do not; people with college degrees are happier than those without, though people with advanced degrees are less happy than those with just a BA; people with an active sex life are happier than those without; women and men are equally happy, though women have a wider emotional range; having an affair will make you happy but will not compensate for the massive loss of happiness that you will incur when your spouse finds out and leaves you; people are least happy when they’re commuting to work; busy people are happier than those with too little to do; wealthy people are happier than poor ones, but only slightly.</p>
+<p class="calibre3">So what should we do with these findings? Get married but don’t have kids? Start going to church regularly? Drop out of that PhD program? Not so fast. Social scientists have a hard time unraveling what they call “reverse causality” and what the rest of us call the chicken-and-egg problem. For instance, healthy people are happier than unhealthy ones; or is it that happy people tend to be healthier? Married people are happy; or maybe happy people are more likely to get married? It’s tough to say. Reverse causality is the hobgoblin that makes mischief in many a research project.</p>
+<p class="calibre3">What I really want to know, though, is not who is happy but where they are happy—and why. Veenhoven sighs when I ask about this and pours another cup of tea. Here, the calculations get trickier. Can we really say which countries, which peoples, are happier than others? Has my search for the world’s happiest places ended before it begins?</p>
+<p class="calibre3">All cultures have a word for happiness, and some have many words. But does the English word “happiness” mean the same as the French <em class="calibre1">bonheur</em> or the Spanish <em class="calibre1">felicidad</em> or the Arabic <em class="calibre1">sahaada</em>? In other words, does happiness translate? There’s some evidence that the answer is yes. The Swiss report equal levels of happiness, whether they take the surveys in French, German, or Italian, the country’s three main languages.</p>
+<p class="calibre3">All cultures value happiness, but not to the same degree. East Asian countries tend to emphasize harmony and fulfilling societal obligations rather than individual contentment; perhaps not coincidentally, these countries also report lower levels of happiness, what’s been called the East Asian Happiness Gap, which sounds to me like some sort of Chinese Grand Canyon. Then there is the “social desirability bias.” The concern here is that people answer the happiness surveys not from their heart but in ways that their society would approve of. The Japanese, for instance, are famously self-effacing, afraid to be the proverbial nail that sticks out; they are also, relative to their wealth, not very happy. I lived in Japan for years and never got used to the sight of Japanese women covering their mouths when they laughed or smiled, as if ashamed of their glee.</p>
+<p class="calibre3">We Americans, on the other hand, wear our happiness on our sleeves and, if anything, are guilty of inflating our contentment in order to impress. Here is what a Polish citizen living in the United States told the writer Laura Klos Sokol about Americans: “When Americans say it was great, I know it was good. When they say it was good, I know it was okay. When they say it was okay, I know it was bad.”</p>
+<p class="calibre3">This is going to be tough. The atlas of bliss, if one exists, won’t be easy to read. It’s like that crumpled map sitting in your glove compartment. But I was determined to plow ahead, convinced that while we may not be able to differentiate fine shades of happiness among countries, surely we can say that some countries are happier than others.</p>
+<p class="spb">Veenhoven gives me complete access to his database and wishes me luck, but first he warns me: “You may not like what you find.”</p>
+<p class="calibre3">“What do you mean?”</p>
+<p class="calibre3">The happiest places, he explains, don’t necessarily fit our preconceived notions. Some of the happiest countries in the world—Iceland and Denmark, for instance—are homogeneous, shattering the American belief that there is strength, and happiness, in diversity. One finding, which Veenhoven just uncovered, has made him very unpopular with his fellow sociologists. He found that income distribution does not predict happiness. Countries with wide gaps between the rich and poor are no less happy than countries where the wealth is distributed more equally. Sometimes, they are happier.</p>
+<p class="calibre3">“My colleagues are not amused,” says Veenhoven. “Inequality is big business here in the sociology department. Entire careers have been built on it.”</p>
+<p class="calibre3">I accept his advice politely but think he must be exaggerating about the dangers that lie ahead. I am wrong. Looking for the world’s happiest places can make anyone miserable—or at the least give them a splitting headache. With each click of the mouse, I encounter mysteries and apparent contradictions. Like this: Many of the world’s happiest countries also have high suicide rates. Or this one: People who attend religious services report being happier than those who do not, but the world’s happiest nations are secular. And, oh, the United States, the richest, most powerful country in the world, is no happiness superpower. Many other nations are happier than we are.</p>
+<p class="spb">My days in Rotterdam fall into a pleasant routine. I have breakfast at the hotel, perhaps indulge in a bit of inter course, then ride the subway to the World Database of Happiness. There, I sift through the research papers and the data, looking for my elusive atlas of bliss. In the evenings, I go to my café (I never do learn its name), where I drink warm beer, smoke little cigars, and ponder the nature of happiness. It’s a routine that involves much contemplation, moderate amounts of intoxicants, and very little actual work. It is, in other words, a very European routine. I’m going native.</p>
+<p class="calibre3">For some reason, I decide to start at the bottom of the happiness ladder and work my way up. Which countries are the least happy? Not surprisingly, many African nations fall into this category. Tanzania, Rwanda, and Zimbabwe are near the very bottom of the happiness well. A few African countries, such as Ghana, manage to achieve middling levels of happiness, but that’s about it. The reasons seem obvious. Extreme poverty is not conducive to happiness. The myth of the happy, noble savage is just that: a myth. If our basic needs are not met, we’re not likely to be happy.</p>
+<p class="calibre3">Curiously, I find another batch of nations stuck at the bottom of the happiness spectrum: the former Soviet republics—Belarus, Moldova, Ukraine, Uzbekistan, and a dozen others.</p>
+<p class="calibre3">Are democracies happier than dictatorships? Not necessarily. Many of those former Soviet republics are quasi-democracies; certainly they are freer now than in Soviet times, yet their happiness levels have decreased since the collapse of the Soviet Union. Ron Inglehart, a professor at the University of Michigan, has spent most of his career studying the relationship between democracy and happiness. He believes that the causality flows the other way; democracies don’t promote happiness, but happy places are more likely to be democratic—which, of course, does not bode well for Iraq.</p>
+<p class="calibre3">What about the warm and sunny places, those tropical paradises that we associate with happiness and pay good money to vacation in? It turns out that they are not so happy. Fiji, Tahiti, the Bahamas—they all fall into the middle latitudes of happiness. Happy countries tend to be those in temperate climates, and some of the happiest—Iceland, for instance—are downright cold.</p>
+<p class="calibre3">Believe it or not, most people in the world say they are happy. Virtually every country in the world scores somewhere between five and eight on a ten-point scale. There are a few exceptions: The sullen Moldovans consistently score about 4.5, and for a brief period in 1962 the citizens of the Dominican Republic could muster only a 1.6, the lowest level of happiness ever recorded on the planet. But, as I said, these are rare exceptions. Most of the world is happy.</p>
+<p class="calibre3">Why does this come as such a surprise? Two types of people, I think, are to blame: journalists and philosophers. The media, of which I am a culpable member, report, as a rule, only bad news: wars, famine, the latest Hollywood couple’s implosion. I don’t mean to belittle the troubles in the world, and God knows I have made a good living reporting them, but we journalists do paint a distorted picture.</p>
+<p class="calibre3">The philosophers, though, are the real culprits—the brooding white guys from Europe. They tended to wear all black, smoke too much, and had trouble getting dates. So they hung out, alone, in cafés, pondered the universe, and—surprise!—concluded it is an unhappy place. Of course it is. That is, if you happen to be a lonely, brooding, pasty-skinned white guy. The happy people of, say, eighteenth-century Heidelberg were busy being happy, not writing long, rambling diatribes intended to torture some not-yet-born college student in Bloomington who needs to pass Philosophy 101 in order to graduate.</p>
+<p class="calibre3">Worst of all was Freud. While not technically a brooding philosopher, Freud did much to shape our views on happiness. He once said: “The intention that Man should be happy is not in the plan of Creation.” That is a remarkable statement, especially coming from a man whose ideas forged the foundation of our mental-health system. Imagine if some doctor in turn-of-the-century Vienna had declared: “The intention that Man should have a healthy body is not in the plan of Creation.” We’d probably lock him up, or at least strip him of his medical license. We certainly wouldn’t base our entire medical system on his ideas. Yet that is exactly what we did with Freud.</p>
+<p class="calibre3">Still, most people are happy? It doesn’t sit right with me. I’m a person, and I’m not particularly happy. Which got me thinking: Where did I fall in Veenhoven’s constellation of happiness data? If I am honest, and I might as well be if I’m taking the trouble to write this, I’d say I was a six. That makes me considerably less happy than my fellow Americans, but according to the WDH I’d feel right at home in Croatia.</p>
+<p class="calibre3">I’m inclined to agree with linguist and fellow curmudgeon Anna Wierzbicka, who, when faced with this very same claim that most people are reasonably happy replied with one simple question: “Who <em class="calibre1">are</em> those reportedly happy people?”</p>
+<p class="calibre3">Who indeed. My head hurts. Have I embarked on a futile mission to find the world’s happiest places? Then I notice that one country scores consistently high on the happiness scale—not number one but darned close. It also happens to be the country I am visiting at this very moment.</p>
+<p class="calibre3">I retire to my café, order a beer, and ponder Dutch happiness. Why should the Netherlands, a flat and nondescript country, be so happy? For starters, the Dutch are European, and that means they don’t have to worry about losing their health insurance, or for that matter their job. The state will take care of them. They get a gazillion weeks of vacation each year and, being European, are also entitled to, at no extra cost, a vaguely superior attitude toward Americans. Does smugness lead to happiness? I wonder, sipping my Trapiste beer. No, there must be something else.</p>
+<p class="calibre3">Tolerance! This is the original “don’t tread on me” nation. A nation where, it seems, the adults are out of town and the teenagers are in charge. Not just for the weekend, either. All of the time.</p>
+<p class="calibre3">The Dutch will tolerate anything, even intolerance. In the past few decades they have welcomed, with open arms, immigrants from around the world, including those from nations that don’t tolerate things like religious freedom and women who work or drive or show their faces. Dutch tolerance comes at a cost, as the murder of the filmmaker Theo van Gogh by a Muslim extremist highlighted. But Veenhoven’s research shows that tolerant people tend to be happy.</p>
+<p class="calibre3">What exactly does Dutch tolerance look like, in an everyday way? Three things come to mind: drugs, prostitution, and cycling. In the Netherlands, all three activities are legal. All three can easily lead to happiness, provided that certain precautions are taken. Wearing a helmet while cycling, for instance.</p>
+<p class="calibre3">I needed to investigate one of these activities, up close, in order to get at the heart of Dutch happiness. But which one? Cycling is certainly worthwhile, and God knows the Dutch love their bicycles, but it was chilly outside, too chilly to get on a bike. Prostitution? That activity takes place indoors, usually, so the weather wouldn’t be a factor. And it clearly makes some people happy. But there was the issue of my wife. She has supported my happiness research, up to a point, and something told me that engaging the services of a Dutch prostitute lies beyond that point.</p>
+<p class="calibre3">So drugs it is. Soft drugs, marijuana and hashish, are legal in the Netherlands. They are served in coffee shops, which aren’t really coffee shops at all but drug dens. “Coffee shop” sounds more respectable than “drug den,” though.</p>
+<p class="calibre3">But which one should I try? There are so many to choose from. In Rotterdam, every third or fourth storefront, it seems, is a “coffee shop.” I’m tempted by one called Sky High, but the name seems too . . . obvious. Others look too hip. I haven’t gotten high since my junior year in college. I don’t want to make a fool of myself.</p>
+<p class="calibre3">Then I spot it. The Alpha Blondie Coffee Shop. It’s perfect. Besides the irresistible name, the Alpha Blondie also offers ventilation, an open window, which is a definite plus. I press a buzzer then walk up a narrow staircase. Inside, there’s a foosball table and a cooler filled with orange Fanta and Coke, as well as plenty of Snickers and M&amp;M’s, for the munchies, no doubt. I’m surprised to see an actual coffee machine in this coffee shop, but it looks like it hasn’t been used in months. A prop, I conclude.</p>
+<p class="calibre3">Bad 1970s music is playing, and a little too loudly. On one wall, I notice a painting that looks like it was done by a talented sixth-grader. In the foreground is a car that has just plowed into a tree, with skid marks trailing off toward the horizon. Underneath is written: “Some roads only exist in drugged minds.” I’m not sure if this is meant as a warning about these roads or as an endorsement of them.</p>
+<p class="calibre3">Everyone here seems to be a regular, except, of course, for me. I’m instantly transported back to my college dorm room in New Jersey. Trying to be cool, trying to fit in, but failing miserably.</p>
+<p class="calibre3">An olive-skinned man comes over to me and, in broken English, explains the menu. Today they are featuring Thai marijuana, he says, as if describing the soup du jour, as well as two types of hashish: Moroccan and Afghan.</p>
+<p class="calibre3">I’m at a loss. So I do what I always do when the menu proves overwhelming. I ask the waiter for his recommendation.</p>
+<p class="calibre3">“Do you prefer strong or mild?” he asks.</p>
+<p class="calibre3">“Mild.”</p>
+<p class="calibre3">“Then I would definitely go with the Moroccan.”</p>
+<p class="calibre3">I hand him a five-euro note (about six dollars), and he hands me a baggie with a chalky brown slab the size of a postage stamp.</p>
+<p class="calibre3">I have absolutely no idea what to do with it.</p>
+<p class="calibre3">For a moment, I’m tempted to call my old college roommate, Rusty Fishkind. Rusty would know what to do. He was always the cool one. Rusty handled a bong the way Yo-Yo Ma handles a cello. I’m sure Rusty is a corporate lawyer now, living in the suburbs with four kids, but still, I bet he would know what to do with this chunk of Moroccan hash.</p>
+<p class="calibre3">As if on cue, Linda Ronstadt pipes up. <em class="calibre1">You’re no good, you’re no good, baby, you’re no good.</em></p>
+<p class="calibre3">I briefly consider swallowing the hash and washing it down with a Pepsi but think better of that idea and just fumble with the hash instead, trying to look as helpless as possible, which under the circumstances comes naturally. Finally, a bearded man wearing a leather jacket takes pity on me. Without saying a word, he takes the hash in his hands and crumbles it like feta cheese. Then he unrolls a cigarette, a regular cigarette, and inserts the hash. After a fluent shake, lick, and tap, he hands the now hash-infused cigarette back to me.</p>
+<p class="calibre3">I thank him and light up.</p>
+<p class="calibre3">A few observations. First of all, I do recommend the Moroccan. It is indeed a smooth smoke. Second, at least half the fun of engaging in illicit activity is the illicit part and not the activity part. In other words, smoking hash legally in Rotterdam is not nearly as much fun as doing it illicitly in your college dorm room with Rusty Fishkind, knowing that at any moment you might get caught.</p>
+<p class="calibre3">Still, I am feeling good. No pain. And, as the Moroccan settles into my cerebral cortex, I wonder: What if I stayed like this all of the time? Wouldn’t I be happy all of the time? I could end my search for the world’s happiest places right here, at the Alpha Blondie Coffee Shop in Rotterdam. Maybe this is the happiest place in the world.</p>
+<p class="calibre3">The philosopher Robert Nozick had something to say on the subject. Not about the Alpha Blondie, which I doubt he’s frequented, nor about Moroccan hash, which he may or may not have smoked. But Nozick did think long and hard about the relationship between hedonism and happiness. He once devised a thought experiment called the Experience Machine.</p>
+<p class="calibre3">Imagine that “superduper neuropsychologists” have figured out a way to stimulate a person’s brain in order to induce pleasurable experiences. It’s perfectly safe, no chance of a malfunction, and not harmful to your health. You would experience constant pleasure for the rest of your life. Would you do it? Would you plug into the Experience Machine?</p>
+<p class="calibre3">If not, argued Nozick, then you’ve just proved that there is more to life than pleasure. We want to achieve our happiness and not just experience it. Perhaps we even want to experience unhappiness, or at least leave open the possibility of unhappiness, in order to truly appreciate happiness.</p>
+<p class="calibre3">Regrettably, I find myself in agreement with Nozick. I would not plug myself into the Experience Machine, and therefore I will not be relocating to the Alpha Blondie Coffee Shop. Which is a shame. Did I mention how smooth the Moroccan hash is?</p>
+<p class="spb">The next morning, my mind Moroccan-free, I make my daily trip to the WDH. I mention my little experiment to Veenhoven. He approves, of course. In fact, when I had first pointed out that many of the activities that the Dutch engage in regularly, such as prostitution and drugs, would get me arrested in the United States, he just smiled slyly and said, “I know. Enjoy.”</p>
+<p class="calibre3">Veenhoven says the database might provide some answers to the age-old question: Is pleasure the same as happiness? After a few digital detours, I find a paper that Veenhoven himself wrote. It’s called “Hedonism and Happiness.” I read the abstract.</p>
+<p class="calibre3">“The relation between happiness and consumption of stimulants follows an inverted U-curve. Spoil sports and guzzlers are less happy than modest consumers.” In other words, as the ancient Greeks counseled a few thousand years ago, everything in moderation. I read on and learn that “several studies have observed a positive correlation between permissive attitudes towards sex and personal happiness.” Presumably, these permissive happy people are not the same happy people who are attending church regularly. As for drugs, a 1995 study found that—no surprise—use of hard drugs tends to decrease happiness over time. But what about soft drugs, like, say, Moroccan hash? It turns out that there has been little research in this area.</p>
+<p class="calibre3">How about that, I think, swiveling away from the computer monitor. Last night, at the Alpha Blondie Coffee Shop, on the very first leg of my journey, I was engaged in cutting-edge happiness research. Who knew?</p>
+<p class="spb">It’s my last day in Rotterdam. A forgettable city but one that I will miss nonetheless. It’s time to say goodbye to Veenhoven, and I am never good at goodbyes. I thank him for all of his help, for all of his blissful data. Then, almost as an afterthought, I pause at the door and say, “It must be wonderful working in the field of happiness studies.”</p>
+<p class="calibre3">Veenhoven looks perplexed. “What do you mean?”</p>
+<p class="calibre3">“Well, you must have an abiding faith in mankind’s capacity for happiness.”</p>
+<p class="calibre3">“No, not really.”</p>
+<p class="calibre3">“But you’ve been studying happiness, analyzing it your entire life.”</p>
+<p class="calibre3">“Yes, but it doesn’t matter to me if people are happy or not, as long as some people are happier than others. I can still crunch the numbers.”</p>
+<p class="calibre3">I just stand there for a moment, stunned. Here I thought Veenhoven was a fellow traveler, a comrade in the hunt for happiness, but it turns out that, as they say in the South, he has no dog in this hunt. Or, if you prefer, Veenhoven isn’t a player in the happiness game; he’s the referee, keeping score. And, like any good referee, it matters not one whit to him who wins the game. Happiness or despondency, it’s all the same. As long as one side prevails.</p>
+<p class="calibre3">That is, I suppose, the whole point of this new, dispassionate study of happiness. Veenhoven and the other blissologists desperately wanted academia to take their discipline seriously, lest they be dismissed as New Age faddists. They have succeeded, but I wonder at what cost. In their world, happiness is reduced to yet another statistic, data to be sliced, diced, parsed, run through the computer, and, ultimately, inevitably, reduced to spreadsheets. And I can’t think of anything less happy than a spreadsheet.</p>
+<p class="calibre3">I realize that my visit to the WDH was a fine start but an incomplete one. Nowhere among the eight thousand studies and research papers did I find any mention of the happiness a nation derives from its arts, the pleasure accrued by hearing a particularly lovely poem read aloud and well, or by watching a darned good movie, accompanied by a tub of popcorn, no butter. Nor does the database reveal anything about the invisible threads that bind a family. Some things are beyond measuring.</p>
+<p class="calibre3">So I construct my atlas of bliss, my road map of happiness, based partly on Ruut Veenhoven’s database and partly on my own hunches. Rich or poor, hot or cold, democracy or dictatorship, it matters not. I will follow the happiness scent wherever it leads.</p>
+<p class="calibre3">With my atlas in hand, I board the train at Rotterdam Central. As the train begins to roll and the Dutch countryside glides by, I feel an unexpected sense of relief. Freedom even. Freedom from what? I can’t imagine. My visit was fine. I drank some good beer, smoked some fine hash, and even learned a thing or two about happiness.</p>
+<p class="calibre3">Then it dawns on me. Freedom from all that . . . freedom. Tolerance is great, but tolerance can easily slide into indifference, and that’s no fun at all. Besides, I can’t live with so much slack. I’m too weak. I wouldn’t know when to stop. If I moved to Holland, you’d probably find me a few months later, engulfed in a cloud of Moroccan hash, a hooker under each arm.</p>
+<p class="calibre3">No, the Dutch way is not for me. Perhaps my next destination is the one. I’m heading to a country where the trains run on time, the streets are clean, and tolerance, like everything else, is doled out carefully, in moderation. I am heading to Switzerland.</p>
+</div>
+</body></html>
+HTML CONTENT<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>
+The Geography of Bliss</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link href="../stylesheet.css" rel="stylesheet" type="text/css"/>
+<link href="../page_styles.css" rel="stylesheet" type="text/css"/>
+</head>
+  <body class="calibre">
+<p class="crt">Copyright © 2008 by Eric Weiner</p><p class="crt1">All rights reserved. Except as permitted under the U.S. Copyright Act of 1976, no part of this publication may be reproduced, distributed, or transmitted in any form or by any means, or stored in a database or retrieval system, without the prior written permission of the publisher.</p><p class="crt2">Twelve</p><p class="crt1">Hachette Book Group USA</p><p class="crt1">237 Park Avenue</p><p class="crt1">New York, NY 10017</p><p class="crt2">Visit our Web site at <a href="http://www.HachetteBookGroupUSA.com">www.HachetteBookGroupUSA.com</a>.</p><p class="crt2">Twelve is an imprint of Grand Central Publishing. </p><p class="crt2">The Twelve name and logo is a trademark of Hachette Book Group USA, Inc.</p><p class="crt2">First eBook Edition: January 2008</p><p class="crt1">ISBN-13: 978-0-446-51107-0</p>
+</body>
+</html>
+HTML CONTENT<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>The Geography of Bliss</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link href="../stylesheet.css" rel="stylesheet" type="text/css"/>
+<link href="../page_styles.css" rel="stylesheet" type="text/css"/>
+</head>
+  <body class="calibre"><p class="fmh">Contents</p>
+<p class="tocfmh" id="introduction_1"><a href="GeographyofBli_body_split_002.html#introduction_1">Introduction</a></p>
+<p class="toccn" id="chapter_1"><a href="GeographyofBli_body_split_003.html#chapter_1">Chapter 1: THE NETHERLANDS: Happiness Is a Number</a></p>
+<p class="toccn" id="chapter_2">Chapter 2: SWITZERLAND: Happiness Is Boredom</p>
+<p class="toccn" id="chapter_3">Chapter 3: BHUTAN: Happiness Is a Policy</p>
+<p class="toccn" id="chapter_4">Chapter 4: QATAR: Happiness Is a Winning Lottery Ticket</p>
+<p class="toccn" id="chapter_5">Chapter 5: ICELAND: Happiness Is Failure</p>
+<p class="toccn" id="chapter_6">Chapter 6: MOLDOVA: Happiness Is Somewhere Else</p>
+<p class="toccn" id="chapter_7">Chapter 7: THAILAND: Happiness Is Not Thinking</p>
+<p class="toccn" id="chapter_8">Chapter 8: GREAT BRITAIN: Happiness Is a Work in Progress</p>
+<p class="toccn" id="chapter_9">Chapter 9: INDIA: Happiness Is a Contradiction</p>
+<p class="toccn" id="chapter_10">Chapter 10: AMERICA: Happiness Is Home</p>
+<p class="tocfmh" id="epilogue_1">EPILOGUE</p>
+<p class="tocbmh" id="acknowledgments_1">Acknowledgments</p>
+<p class="tocbmh" id="author_bio_1">About the Author</p>
+</body></html>
+HTML CONTENT<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US">
+  <head>
+    <title>Cover Image</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link href="../stylesheet.css" rel="stylesheet" type="text/css"/>
+<link href="../page_styles.css" rel="stylesheet" type="text/css"/>
+</head>
+  <body class="calibre">
+<div class="body">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="100%" height="100%" viewBox="0 0 500 656">
+<image width="500" height="656" xlink:href="images/GeographyofBli-cover.jpg" transform="translate(0 0)"/>
+</svg>
+</div>
+</body>
+</html>
+cssContent@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+cssContent.body {
+    display: block
+    }
+.calibre {
+    display: block;
+    font-size: 1.41667em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-style: italic
+    }
+.calibre2 {
+    line-height: 1.2
+    }
+.calibre3 {
+    display: block;
+    font-family: serif;
+    font-size: 0.70588em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: justify;
+    text-indent: 1.5em;
+    margin: 0
+    }
+.calibre4 {
+    display: block;
+    text-align: center
+    }
+.cn {
+    display: block;
+    font-family: serif;
+    font-size: 1em;
+    font-style: italic;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: right;
+    text-indent: 0;
+    margin: 20% 0 1em
+    }
+.cotx {
+    display: block;
+    font-family: serif;
+    font-size: 0.70588em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0
+    }
+.crt {
+    display: block;
+    font-family: serif;
+    font-size: 0.70588em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: left;
+    text-indent: 0;
+    margin: 20% 0 0
+    }
+.crt1 {
+    display: block;
+    font-family: serif;
+    font-size: 0.70588em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: left;
+    text-indent: 0;
+    margin: 0
+    }
+.crt2 {
+    display: block;
+    font-family: serif;
+    font-size: 0.70588em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: left;
+    text-indent: 0;
+    margin: 1em 0 0
+    }
+.cst {
+    display: block;
+    font-family: serif;
+    font-size: 1.17647em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: right;
+    text-indent: 0;
+    margin: 0 0 2em
+    }
+.ct {
+    display: block;
+    font-family: serif;
+    font-size: 1.29412em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 1em
+    }
+.ded {
+    display: block;
+    font-family: serif;
+    font-size: 0.70588em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+    text-indent: 0;
+    margin: 20% 0 0
+    }
+.dedication {
+    display: block;
+    text-align: center
+    }
+.dropcap {
+    display: inline;
+    font-family: serif;
+    font-size: 1.83333em;
+    line-height: 1.2
+    }
+.ep {
+    display: block;
+    font-family: serif;
+    font-size: 0.70588em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+    text-indent: 0;
+    margin: 2em 3em 0
+    }
+.eps {
+    display: block;
+    font-family: serif;
+    font-size: 0.70588em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 3em 2.5em
+    }
+.fmh {
+    display: block;
+    font-family: serif;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: left;
+    text-indent: 0;
+    margin: 20% 0 2em 0m
+    }
+.spb {
+    display: block;
+    font-family: serif;
+    font-size: 0.70588em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: justify;
+    text-indent: 0;
+    margin: 3em 0 0
+    }
+.tocbmh {
+    display: block;
+    font-family: serif;
+    font-size: 0.70588em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: left;
+    text-indent: 0;
+    margin: 0.5em 0 0
+    }
+.toccn {
+    display: block;
+    font-family: serif;
+    font-size: 0.70588em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: left;
+    text-indent: 0;
+    margin: 0.5em 0
+    }
+.tocfmh {
+    display: block;
+    font-family: serif;
+    font-size: 0.70588em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 0.5em
+    }
