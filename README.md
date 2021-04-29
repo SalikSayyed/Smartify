@@ -31,7 +31,7 @@ What I Think is -
 - [ ] Making a android programme to transform notes into Mind Maps. 
    - [ ] Mind Map Clear
    - [ ] Flow Chart
- ![ConeptViewMap](https://assets-global.website-files.com/5ddd9c3f2186308353fe682d/5ea38aec8ad6b6793d8e5edf_ezgif.com-optimize%20(11).gif)
+
    - [ ] Sticky Notes with Chart/Maps FOR IMPS
    - [ ] Searching option in each one.
 - [ ] File System and Hence Searching option.
