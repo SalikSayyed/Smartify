@@ -5,13 +5,13 @@ ITS READING!  LIKE NEVER BEFORE.
 **Days since :LICENSE commit is the days passed: so far on project keep count**
 ![ConceptView](https://i2.wp.com/the-digital-reader.com/wp-content/uploads/2016/02/All-the-books-Editions-at-Play-Animated_500px.gif)
 #FINAL STEPS
-**PRIORITY**
+- **PRIORITY**
 - [ ] TextBlob Extract keywords
 - [ ] Hard Code Grammer to pick right one
 - [ ] Music addition + Space for adding custom music
 - [ ] Programmatical Music if Possible
 - [ ] In app dictionary
-**ONLY AFTER ACHIEVING ABOVE**
+- **ONLY AFTER ACHIEVING ABOVE**
 - [ ] Voice to Text Note taking
 - [ ] Voice to Text Reminder
 - [ ] PDF Virus Scan
