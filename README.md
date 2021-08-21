@@ -3,6 +3,15 @@
 *on iOS, Android, Mac, Windows,Linux, Web (Originally all targetted..we will see as we move forward)*
 #Minimum Viable Product
 ITS READING!  LIKE NEVER BEFORE.
+
+
+
+<img src="https://github.com/SalikSayyed/Smartify/blob/main/Capture1.PNG" width="150"/>
+<img src="https://github.com/SalikSayyed/Smartify/blob/main/Capture2.PNG" width="150"/>
+<img src="https://github.com/SalikSayyed/Smartify/blob/main/Capture3.PNG" width="150"/>
+<img src="https://github.com/SalikSayyed/Smartify/blob/main/Capture4.PNG" width="150"/>
+
+
 **Days since :LICENSE commit is the days passed: so far on project keep count**
 ![ConceptView](https://i2.wp.com/the-digital-reader.com/wp-content/uploads/2016/02/All-the-books-Editions-at-Play-Animated_500px.gif)
 #FINAL STEPS
