@@ -6,10 +6,10 @@ ITS READING!  LIKE NEVER BEFORE.
 
 
 
-<img src="https://github.com/SalikSayyed/Smartify/blob/main/Capture1.PNG" width="300"/>
-<img src="https://github.com/SalikSayyed/Smartify/blob/main/Capture2.PNG" width="300"/>
-<img src="https://github.com/SalikSayyed/Smartify/blob/main/Capture3.PNG" width="300"/>
-<img src="https://github.com/SalikSayyed/Smartify/blob/main/Capture4.PNG" width="300"/>
+<img src="https://github.com/SalikSayyed/Smartify/blob/main/Capture1.PNG" width="800"/>
+<img src="https://github.com/SalikSayyed/Smartify/blob/main/Capture2.PNG" width="800"/>
+<img src="https://github.com/SalikSayyed/Smartify/blob/main/Capture3.PNG" width="800"/>
+<img src="https://github.com/SalikSayyed/Smartify/blob/main/Capture4.PNG" width="800"/>
 
 
 **Days since :LICENSE commit is the days passed: so far on project keep count**
