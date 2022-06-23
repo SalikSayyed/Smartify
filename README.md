@@ -78,7 +78,7 @@ What I Think is -
  - *Flutter And React will work hand in hand, doing one doesnt mean not doing other.*
  - NO SHARING OF CODE OR IDEA TO ANY GROUP OF ANY KIND.. IF THEY DONT WHY SHOULD WE !
  - ## SORT ISSUES WITH OLDEST FIRST 
-# PHASE 1
+
 ---Till end of Sixth semester
 MAKE A EPUB (OR ANY DEFAULT FORMAT TO SET) READER
 
@@ -93,6 +93,4 @@ COMPLETELY WORKING NLP MODEL (WITHOUT REINFORCED LEARNING)
 MINIMUM 2 TEST RUNS OF REINFORCED LEARNING MODEL..(not for submission but for our speed)
 "We have lot of work to do, so insted of being smart in doing less efforts, be smart in delivering result"
                                                                                         -  Baba Ranchodas
-# PHASE 2
-# PHASE 3
-#                                                                               LET'S MAKE IT HAPPEN.
+
