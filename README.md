@@ -12,7 +12,7 @@ ITS READING!  LIKE NEVER BEFORE.
 <img src="https://github.com/SalikSayyed/Smartify/blob/main/Capture4.PNG" width="800"/>
 
 
-**Days since :LICENSE commit is the days passed: so far on project keep count**
+
 ![ConceptView](https://i2.wp.com/the-digital-reader.com/wp-content/uploads/2016/02/All-the-books-Editions-at-Play-Animated_500px.gif)
 #FINAL STEPS
 -   ***for front end visit [SMARTIFY FRONT END FLUTTER](https://github.com/SalikSayyed/Scrity)***
